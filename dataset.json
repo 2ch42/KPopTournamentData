@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 3,
-  "updatedAt": "2026-07-16",
+  "dataVersion": 4,
+  "updatedAt": "2026-10-14",
   "groups": [
     {
       "id": "2eyes",
@@ -10,7 +10,8 @@
       "generation": 3,
       "debutYear": 2013,
       "colorLight": "#974C2C",
-      "colorDark": "#B2542C"
+      "colorDark": "#B2542C",
+      "popularity": 7
     },
     {
       "id": "2pm",
@@ -19,7 +20,8 @@
       "generation": 2,
       "debutYear": 2008,
       "colorLight": "#206F35",
-      "colorDark": "#207F39"
+      "colorDark": "#207F39",
+      "popularity": 34
     },
     {
       "id": "3ye",
@@ -28,7 +30,8 @@
       "generation": 4,
       "debutYear": 2019,
       "colorLight": "#5F651D",
-      "colorDark": "#6D741D"
+      "colorDark": "#6D741D",
+      "popularity": 12
     },
     {
       "id": "a-de",
@@ -37,16 +40,18 @@
       "generation": 3,
       "debutYear": 2016,
       "colorLight": "#206F27",
-      "colorDark": "#208028"
+      "colorDark": "#208028",
+      "popularity": 4
     },
     {
-      "id": "acid-angel-from-asia",
-      "name": "Acid Angel from Asia",
-      "gender": "female",
+      "id": "ab6ix",
+      "name": "AB6IX",
+      "gender": "male",
       "generation": 4,
-      "debutYear": 2022,
-      "colorLight": "#206F34",
-      "colorDark": "#207F38"
+      "debutYear": 2019,
+      "colorLight": "#2A6590",
+      "colorDark": "#2A74A9",
+      "popularity": 20
     },
     {
       "id": "adya",
@@ -55,7 +60,8 @@
       "generation": 5,
       "debutYear": 2023,
       "colorLight": "#9732AE",
-      "colorDark": "#B033CC"
+      "colorDark": "#B033CC",
+      "popularity": 6
     },
     {
       "id": "aespa",
@@ -64,7 +70,8 @@
       "generation": 4,
       "debutYear": 2020,
       "colorLight": "#8838C2",
-      "colorDark": "#9848D1"
+      "colorDark": "#9848D1",
+      "popularity": 52
     },
     {
       "id": "alice",
@@ -73,7 +80,8 @@
       "generation": 3,
       "debutYear": 2017,
       "colorLight": "#61651D",
-      "colorDark": "#6F741D"
+      "colorDark": "#6F741D",
+      "popularity": 15
     },
     {
       "id": "apink",
@@ -82,7 +90,8 @@
       "generation": 2,
       "debutYear": 2011,
       "colorLight": "#306E20",
-      "colorDark": "#337F20"
+      "colorDark": "#337F20",
+      "popularity": 34
     },
     {
       "id": "ariaz",
@@ -91,7 +100,18 @@
       "generation": 4,
       "debutYear": 2019,
       "colorLight": "#7E5A25",
-      "colorDark": "#926725"
+      "colorDark": "#926725",
+      "popularity": 6
+    },
+    {
+      "id": "artms",
+      "name": "ARTMS",
+      "gender": "female",
+      "generation": 5,
+      "debutYear": 2024,
+      "colorLight": "#8639C4",
+      "colorDark": "#954AD2",
+      "popularity": 11
     },
     {
       "id": "astro",
@@ -100,7 +120,8 @@
       "generation": 3,
       "debutYear": 2016,
       "colorLight": "#62651D",
-      "colorDark": "#71731D"
+      "colorDark": "#71731D",
+      "popularity": 29
     },
     {
       "id": "ateez",
@@ -109,7 +130,8 @@
       "generation": 4,
       "debutYear": 2018,
       "colorLight": "#206E3C",
-      "colorDark": "#207F41"
+      "colorDark": "#207F41",
+      "popularity": 39
     },
     {
       "id": "b1a4",
@@ -118,7 +140,18 @@
       "generation": 2,
       "debutYear": 2011,
       "colorLight": "#8C37BD",
-      "colorDark": "#9D45D0"
+      "colorDark": "#9D45D0",
+      "popularity": 26
+    },
+    {
+      "id": "babymonster",
+      "name": "BABYMONSTER",
+      "gender": "female",
+      "generation": 5,
+      "debutYear": 2023,
+      "colorLight": "#58671E",
+      "colorDark": "#64771E",
+      "popularity": 36
     },
     {
       "id": "bigbang",
@@ -127,7 +160,8 @@
       "generation": 2,
       "debutYear": 2006,
       "colorLight": "#1F6C62",
-      "colorDark": "#1F7C70"
+      "colorDark": "#1F7C70",
+      "popularity": 64
     },
     {
       "id": "billlie",
@@ -136,16 +170,18 @@
       "generation": 4,
       "debutYear": 2021,
       "colorLight": "#366D20",
-      "colorDark": "#3B7E20"
+      "colorDark": "#3B7E20",
+      "popularity": 19
     },
     {
       "id": "blackpink",
-      "name": "Blackpink",
+      "name": "BLACKPINK",
       "gender": "female",
       "generation": 3,
       "debutYear": 2016,
       "colorLight": "#A73180",
-      "colorDark": "#C33193"
+      "colorDark": "#C33193",
+      "popularity": 113
     },
     {
       "id": "boynextdoor",
@@ -154,7 +190,8 @@
       "generation": 5,
       "debutYear": 2023,
       "colorLight": "#3260AB",
-      "colorDark": "#336DCB"
+      "colorDark": "#336DCB",
+      "popularity": 23
     },
     {
       "id": "brown-eyed-girls",
@@ -163,7 +200,18 @@
       "generation": 2,
       "debutYear": 2006,
       "colorLight": "#7642C8",
-      "colorDark": "#8553D4"
+      "colorDark": "#8553D4",
+      "popularity": 24
+    },
+    {
+      "id": "btob",
+      "name": "BTOB",
+      "gender": "male",
+      "generation": 3,
+      "debutYear": 2012,
+      "colorLight": "#1F6C67",
+      "colorDark": "#1F7C75",
+      "popularity": 34
     },
     {
       "id": "bts",
@@ -172,7 +220,8 @@
       "generation": 3,
       "debutYear": 2013,
       "colorLight": "#7145C9",
-      "colorDark": "#8055D5"
+      "colorDark": "#8055D5",
+      "popularity": 125
     },
     {
       "id": "busters",
@@ -181,25 +230,8 @@
       "generation": 3,
       "debutYear": 2017,
       "colorLight": "#416C1F",
-      "colorDark": "#487C1F"
-    },
-    {
-      "id": "cherry-bullet",
-      "name": "Cherry Bullet",
-      "gender": "female",
-      "generation": 4,
-      "debutYear": 2019,
-      "colorLight": "#69621E",
-      "colorDark": "#79711E"
-    },
-    {
-      "id": "chobom",
-      "name": "ChoBom",
-      "gender": "female",
-      "generation": 4,
-      "debutYear": 2022,
-      "colorLight": "#3C57C6",
-      "colorDark": "#4D67D2"
+      "colorDark": "#487C1F",
+      "popularity": 10
     },
     {
       "id": "cignature",
@@ -208,25 +240,28 @@
       "generation": 4,
       "debutYear": 2020,
       "colorLight": "#335FAF",
-      "colorDark": "#386CCD"
-    },
-    {
-      "id": "class-y",
-      "name": "CLASS:y",
-      "gender": "female",
-      "generation": 4,
-      "debutYear": 2022,
-      "colorLight": "#266884",
-      "colorDark": "#27779A"
+      "colorDark": "#386CCD",
+      "popularity": 14
     },
     {
       "id": "cnblue",
       "name": "CNBLUE",
       "gender": "male",
       "generation": 2,
-      "debutYear": 2009,
+      "debutYear": 2010,
       "colorLight": "#206D51",
-      "colorDark": "#207E5B"
+      "colorDark": "#207E5B",
+      "popularity": 31
+    },
+    {
+      "id": "cortis",
+      "name": "CORTIS",
+      "gender": "male",
+      "generation": 5,
+      "debutYear": 2025,
+      "colorLight": "#206B6E",
+      "colorDark": "#207B7E",
+      "popularity": 21
     },
     {
       "id": "cravity",
@@ -235,7 +270,8 @@
       "generation": 4,
       "debutYear": 2020,
       "colorLight": "#A1442F",
-      "colorDark": "#BE492F"
+      "colorDark": "#BE492F",
+      "popularity": 19
     },
     {
       "id": "craxy",
@@ -244,7 +280,8 @@
       "generation": 4,
       "debutYear": 2020,
       "colorLight": "#486B1F",
-      "colorDark": "#507B1F"
+      "colorDark": "#507B1F",
+      "popularity": 7
     },
     {
       "id": "csr",
@@ -253,7 +290,8 @@
       "generation": 4,
       "debutYear": 2022,
       "colorLight": "#3B6D20",
-      "colorDark": "#407D1F"
+      "colorDark": "#407D1F",
+      "popularity": 14
     },
     {
       "id": "dal-shabet",
@@ -262,16 +300,8 @@
       "generation": 2,
       "debutYear": 2011,
       "colorLight": "#7F3DC7",
-      "colorDark": "#8E4ED3"
-    },
-    {
-      "id": "dasoni",
-      "name": "DASONI",
-      "gender": "female",
-      "generation": 3,
-      "debutYear": 2013,
-      "colorLight": "#9E2FA2",
-      "colorDark": "#B82FBD"
+      "colorDark": "#8E4ED3",
+      "popularity": 24
     },
     {
       "id": "davichi",
@@ -280,7 +310,18 @@
       "generation": 2,
       "debutYear": 2008,
       "colorLight": "#386D20",
-      "colorDark": "#3D7D1F"
+      "colorDark": "#3D7D1F",
+      "popularity": 28
+    },
+    {
+      "id": "day6",
+      "name": "DAY6",
+      "gender": "male",
+      "generation": 3,
+      "debutYear": 2015,
+      "colorLight": "#56681E",
+      "colorDark": "#63771E",
+      "popularity": 33
     },
     {
       "id": "dreamcatcher",
@@ -289,7 +330,8 @@
       "generation": 3,
       "debutYear": 2017,
       "colorLight": "#A22F97",
-      "colorDark": "#BD2FAF"
+      "colorDark": "#BD2FAF",
+      "popularity": 31
     },
     {
       "id": "dreamnote",
@@ -298,7 +340,8 @@
       "generation": 4,
       "debutYear": 2018,
       "colorLight": "#5350CC",
-      "colorDark": "#6260D7"
+      "colorDark": "#6260D7",
+      "popularity": 8
     },
     {
       "id": "enhypen",
@@ -307,7 +350,8 @@
       "generation": 4,
       "debutYear": 2020,
       "colorLight": "#AC3263",
-      "colorDark": "#CA326F"
+      "colorDark": "#CA326F",
+      "popularity": 45
     },
     {
       "id": "everglow",
@@ -316,16 +360,8 @@
       "generation": 4,
       "debutYear": 2019,
       "colorLight": "#25687F",
-      "colorDark": "#257894"
-    },
-    {
-      "id": "evolution",
-      "name": "EVOLution",
-      "gender": "female",
-      "generation": 5,
-      "debutYear": 2023,
-      "colorLight": "#206E47",
-      "colorDark": "#207E4F"
+      "colorDark": "#257894",
+      "popularity": 31
     },
     {
       "id": "exid",
@@ -334,7 +370,8 @@
       "generation": 3,
       "debutYear": 2012,
       "colorLight": "#7443C9",
-      "colorDark": "#8354D4"
+      "colorDark": "#8354D4",
+      "popularity": 38
     },
     {
       "id": "exo",
@@ -343,7 +380,8 @@
       "generation": 3,
       "debutYear": 2012,
       "colorLight": "#1F6B6A",
-      "colorDark": "#1F7B7A"
+      "colorDark": "#1F7B7A",
+      "popularity": 67
     },
     {
       "id": "fanatics",
@@ -352,25 +390,18 @@
       "generation": 4,
       "debutYear": 2019,
       "colorLight": "#486B1F",
-      "colorDark": "#507B1F"
-    },
-    {
-      "id": "fanatics-flavor",
-      "name": "FANATICS-FLAVOR",
-      "gender": "female",
-      "generation": 4,
-      "debutYear": 2018,
-      "colorLight": "#266884",
-      "colorDark": "#27779A"
+      "colorDark": "#507B1F",
+      "popularity": 9
     },
     {
       "id": "fifty-fifty",
-      "name": "Fifty Fifty",
+      "name": "FIFTY FIFTY",
       "gender": "female",
       "generation": 4,
       "debutYear": 2022,
       "colorLight": "#9732AE",
-      "colorDark": "#B033CC"
+      "colorDark": "#B033CC",
+      "popularity": 26
     },
     {
       "id": "fromis-9",
@@ -379,16 +410,8 @@
       "generation": 4,
       "debutYear": 2018,
       "colorLight": "#AB3A32",
-      "colorDark": "#C93C32"
-    },
-    {
-      "id": "g-i-dle",
-      "name": "(G)I-DLE",
-      "gender": "female",
-      "generation": 4,
-      "debutYear": 2018,
-      "colorLight": "#206F26",
-      "colorDark": "#208027"
+      "colorDark": "#C93C32",
+      "popularity": 25
     },
     {
       "id": "girls-generation",
@@ -397,16 +420,8 @@
       "generation": 2,
       "debutYear": 2007,
       "colorLight": "#6E46C9",
-      "colorDark": "#7D57D5"
-    },
-    {
-      "id": "got-the-beat",
-      "name": "GOT the beat",
-      "gender": "female",
-      "generation": 4,
-      "debutYear": 2022,
-      "colorLight": "#1F6C66",
-      "colorDark": "#1F7C75"
+      "colorDark": "#7D57D5",
+      "popularity": 67
     },
     {
       "id": "got7",
@@ -415,16 +430,8 @@
       "generation": 3,
       "debutYear": 2014,
       "colorLight": "#326E20",
-      "colorDark": "#367E20"
-    },
-    {
-      "id": "gwsn",
-      "name": "GWSN",
-      "gender": "female",
-      "generation": 4,
-      "debutYear": 2018,
-      "colorLight": "#446B1F",
-      "colorDark": "#4C7B1F"
+      "colorDark": "#367E20",
+      "popularity": 49
     },
     {
       "id": "h1-key",
@@ -433,7 +440,8 @@
       "generation": 4,
       "debutYear": 2022,
       "colorLight": "#5450CC",
-      "colorDark": "#6460D7"
+      "colorDark": "#6460D7",
+      "popularity": 12
     },
     {
       "id": "hash-tag",
@@ -442,7 +450,18 @@
       "generation": 3,
       "debutYear": 2017,
       "colorLight": "#206D59",
-      "colorDark": "#1F7D64"
+      "colorDark": "#1F7D64",
+      "popularity": 5
+    },
+    {
+      "id": "hearts2hearts",
+      "name": "Hearts2Hearts",
+      "gender": "female",
+      "generation": 5,
+      "debutYear": 2025,
+      "colorLight": "#9A31AA",
+      "colorDark": "#B332C7",
+      "popularity": 25
     },
     {
       "id": "highlight",
@@ -451,16 +470,18 @@
       "generation": 2,
       "debutYear": 2009,
       "colorLight": "#2A668F",
-      "colorDark": "#2A75A6"
+      "colorDark": "#2A75A6",
+      "popularity": 35
     },
     {
-      "id": "honey-popcorn",
-      "name": "Honey Popcorn",
+      "id": "i-dle",
+      "name": "i-dle",
       "gender": "female",
       "generation": 4,
       "debutYear": 2018,
-      "colorLight": "#486B1F",
-      "colorDark": "#507B1F"
+      "colorLight": "#1F6B69",
+      "colorDark": "#1F7B78",
+      "popularity": 42
     },
     {
       "id": "ichillin",
@@ -469,7 +490,8 @@
       "generation": 4,
       "debutYear": 2021,
       "colorLight": "#8439C6",
-      "colorDark": "#934BD2"
+      "colorDark": "#934BD2",
+      "popularity": 8
     },
     {
       "id": "ikon",
@@ -478,7 +500,18 @@
       "generation": 3,
       "debutYear": 2015,
       "colorLight": "#A5308B",
-      "colorDark": "#C030A1"
+      "colorDark": "#C030A1",
+      "popularity": 37
+    },
+    {
+      "id": "illit",
+      "name": "ILLIT",
+      "gender": "female",
+      "generation": 5,
+      "debutYear": 2024,
+      "colorLight": "#206E3E",
+      "colorDark": "#207F45",
+      "popularity": 30
     },
     {
       "id": "ily-1",
@@ -487,7 +520,8 @@
       "generation": 4,
       "debutYear": 2022,
       "colorLight": "#62651D",
-      "colorDark": "#6F741D"
+      "colorDark": "#6F741D",
+      "popularity": 9
     },
     {
       "id": "infinite",
@@ -496,7 +530,8 @@
       "generation": 2,
       "debutYear": 2010,
       "colorLight": "#A32F95",
-      "colorDark": "#BE2FAD"
+      "colorDark": "#BE2FAD",
+      "popularity": 32
     },
     {
       "id": "irris",
@@ -505,7 +540,8 @@
       "generation": 4,
       "debutYear": 2022,
       "colorLight": "#59671E",
-      "colorDark": "#65761E"
+      "colorDark": "#65761E",
+      "popularity": 6
     },
     {
       "id": "itzy",
@@ -514,7 +550,8 @@
       "generation": 4,
       "debutYear": 2019,
       "colorLight": "#A22F97",
-      "colorDark": "#BD2FAF"
+      "colorDark": "#BD2FAF",
+      "popularity": 53
     },
     {
       "id": "ive",
@@ -523,16 +560,18 @@
       "generation": 4,
       "debutYear": 2021,
       "colorLight": "#AF3348",
-      "colorDark": "#CC354E"
+      "colorDark": "#CC354E",
+      "popularity": 34
     },
     {
-      "id": "kard",
-      "name": "KARD",
+      "id": "izna",
+      "name": "izna",
       "gender": "female",
-      "generation": 3,
-      "debutYear": 2017,
-      "colorLight": "#5C4DCB",
-      "colorDark": "#6C5DD7"
+      "generation": 5,
+      "debutYear": 2024,
+      "colorLight": "#6849CA",
+      "colorDark": "#7659D6",
+      "popularity": 17
     },
     {
       "id": "kep1er",
@@ -541,16 +580,28 @@
       "generation": 4,
       "debutYear": 2022,
       "colorLight": "#2A668F",
-      "colorDark": "#2A75A6"
+      "colorDark": "#2A75A6",
+      "popularity": 31
     },
     {
-      "id": "kr-ystal-eyes",
-      "name": "+(KR)ystal Eyes",
+      "id": "kiiikiii",
+      "name": "KiiiKiii",
+      "gender": "female",
+      "generation": 5,
+      "debutYear": 2025,
+      "colorLight": "#5350CC",
+      "colorDark": "#6260D7",
+      "popularity": 18
+    },
+    {
+      "id": "kiss-of-life",
+      "name": "KISS OF LIFE",
       "gender": "female",
       "generation": 5,
       "debutYear": 2023,
-      "colorLight": "#236F20",
-      "colorDark": "#238020"
+      "colorLight": "#66631E",
+      "colorDark": "#75721D",
+      "popularity": 22
     },
     {
       "id": "lapillus",
@@ -559,16 +610,18 @@
       "generation": 4,
       "debutYear": 2022,
       "colorLight": "#9932AB",
-      "colorDark": "#B232C9"
+      "colorDark": "#B232C9",
+      "popularity": 0
     },
     {
       "id": "le-sserafim",
-      "name": "Le Sserafim",
+      "name": "LE SSERAFIM",
       "gender": "female",
       "generation": 4,
       "debutYear": 2022,
       "colorLight": "#306E20",
-      "colorDark": "#337F20"
+      "colorDark": "#337F20",
+      "popularity": 45
     },
     {
       "id": "lightsum",
@@ -577,7 +630,8 @@
       "generation": 4,
       "debutYear": 2021,
       "colorLight": "#5E661E",
-      "colorDark": "#6B751D"
+      "colorDark": "#6B751D",
+      "popularity": 19
     },
     {
       "id": "limelight",
@@ -586,61 +640,28 @@
       "generation": 5,
       "debutYear": 2023,
       "colorLight": "#A93177",
-      "colorDark": "#C63188"
-    },
-    {
-      "id": "loona",
-      "name": "LOONA",
-      "gender": "female",
-      "generation": 4,
-      "debutYear": 2018,
-      "colorLight": "#63641D",
-      "colorDark": "#72731D"
-    },
-    {
-      "id": "loona-1-3",
-      "name": "LOONA 1/3",
-      "gender": "female",
-      "generation": 3,
-      "debutYear": 2017,
-      "colorLight": "#346E20",
-      "colorDark": "#377E20"
-    },
-    {
-      "id": "loona-odd-eye-circle",
-      "name": "LOONA ODD EYE CIRCLE",
-      "gender": "female",
-      "generation": 3,
-      "debutYear": 2017,
-      "colorLight": "#206E46",
-      "colorDark": "#207E4D"
-    },
-    {
-      "id": "loona-yyxy",
-      "name": "LOONA yyxy",
-      "gender": "female",
-      "generation": 4,
-      "debutYear": 2018,
-      "colorLight": "#206D57",
-      "colorDark": "#1F7D63"
-    },
-    {
-      "id": "lovelution",
-      "name": "LOVElution",
-      "gender": "female",
-      "generation": 5,
-      "debutYear": 2023,
-      "colorLight": "#9D472E",
-      "colorDark": "#B94E2E"
+      "colorDark": "#C63188",
+      "popularity": 0
     },
     {
       "id": "mamamoo",
-      "name": "Mamamoo",
+      "name": "MAMAMOO",
       "gender": "female",
       "generation": 3,
       "debutYear": 2014,
       "colorLight": "#A83179",
-      "colorDark": "#C5318A"
+      "colorDark": "#C5318A",
+      "popularity": 40
+    },
+    {
+      "id": "meovv",
+      "name": "MEOVV",
+      "gender": "female",
+      "generation": 5,
+      "debutYear": 2024,
+      "colorLight": "#B03340",
+      "colorDark": "#CD3545",
+      "popularity": 17
     },
     {
       "id": "mimiirose",
@@ -649,7 +670,8 @@
       "generation": 4,
       "debutYear": 2022,
       "colorLight": "#1F6C61",
-      "colorDark": "#1F7C6E"
+      "colorDark": "#1F7C6E",
+      "popularity": 9
     },
     {
       "id": "monsta-x",
@@ -658,7 +680,8 @@
       "generation": 3,
       "debutYear": 2015,
       "colorLight": "#3061A6",
-      "colorDark": "#316EC4"
+      "colorDark": "#316EC4",
+      "popularity": 39
     },
     {
       "id": "nature",
@@ -667,7 +690,8 @@
       "generation": 4,
       "debutYear": 2018,
       "colorLight": "#2B6595",
-      "colorDark": "#2C73AE"
+      "colorDark": "#2C73AE",
+      "popularity": 19
     },
     {
       "id": "nct-127",
@@ -676,7 +700,8 @@
       "generation": 3,
       "debutYear": 2016,
       "colorLight": "#9A31AA",
-      "colorDark": "#B332C7"
+      "colorDark": "#B332C7",
+      "popularity": 24
     },
     {
       "id": "nct-dream",
@@ -685,7 +710,18 @@
       "generation": 3,
       "debutYear": 2016,
       "colorLight": "#A63087",
-      "colorDark": "#C2309B"
+      "colorDark": "#C2309B",
+      "popularity": 24
+    },
+    {
+      "id": "nct-wish",
+      "name": "NCT WISH",
+      "gender": "male",
+      "generation": 5,
+      "debutYear": 2024,
+      "colorLight": "#2F62A2",
+      "colorDark": "#3070BF",
+      "popularity": 15
     },
     {
       "id": "newjeans",
@@ -694,7 +730,8 @@
       "generation": 4,
       "debutYear": 2022,
       "colorLight": "#276788",
-      "colorDark": "#27769E"
+      "colorDark": "#27769E",
+      "popularity": 44
     },
     {
       "id": "nmixx",
@@ -703,7 +740,8 @@
       "generation": 4,
       "debutYear": 2022,
       "colorLight": "#A4308F",
-      "colorDark": "#BF30A5"
+      "colorDark": "#BF30A5",
+      "popularity": 33
     },
     {
       "id": "oh-my-girl",
@@ -712,16 +750,18 @@
       "generation": 3,
       "debutYear": 2015,
       "colorLight": "#664ACA",
-      "colorDark": "#755AD6"
+      "colorDark": "#755AD6",
+      "popularity": 30
     },
     {
-      "id": "oh-my-girl-banhana",
-      "name": "Oh My Girl Banhana",
-      "gender": "female",
+      "id": "oneus",
+      "name": "ONEUS",
+      "gender": "male",
       "generation": 4,
-      "debutYear": 2018,
-      "colorLight": "#9434B2",
-      "colorDark": "#AB39CD"
+      "debutYear": 2019,
+      "colorLight": "#9C30A6",
+      "colorDark": "#B630C2",
+      "popularity": 21
     },
     {
       "id": "p1harmony",
@@ -730,7 +770,8 @@
       "generation": 4,
       "debutYear": 2020,
       "colorLight": "#A02F9E",
-      "colorDark": "#BA2FB8"
+      "colorDark": "#BA2FB8",
+      "popularity": 21
     },
     {
       "id": "pink-fantasy",
@@ -739,7 +780,8 @@
       "generation": 4,
       "debutYear": 2018,
       "colorLight": "#8C5329",
-      "colorDark": "#A35E29"
+      "colorDark": "#A35E29",
+      "popularity": 8
     },
     {
       "id": "pixy",
@@ -748,7 +790,8 @@
       "generation": 4,
       "debutYear": 2021,
       "colorLight": "#356D20",
-      "colorDark": "#397E20"
+      "colorDark": "#397E20",
+      "popularity": 13
     },
     {
       "id": "playback",
@@ -757,7 +800,8 @@
       "generation": 3,
       "debutYear": 2015,
       "colorLight": "#9E2FA2",
-      "colorDark": "#B82FBD"
+      "colorDark": "#B82FBD",
+      "popularity": 14
     },
     {
       "id": "primrose",
@@ -766,7 +810,8 @@
       "generation": 5,
       "debutYear": 2023,
       "colorLight": "#A64030",
-      "colorDark": "#C34431"
+      "colorDark": "#C34431",
+      "popularity": 5
     },
     {
       "id": "pritti-g",
@@ -775,7 +820,8 @@
       "generation": 4,
       "debutYear": 2021,
       "colorLight": "#276788",
-      "colorDark": "#27769E"
+      "colorDark": "#27769E",
+      "popularity": 0
     },
     {
       "id": "purple-kiss",
@@ -784,7 +830,8 @@
       "generation": 4,
       "debutYear": 2021,
       "colorLight": "#6A48CA",
-      "colorDark": "#7A58D5"
+      "colorDark": "#7A58D5",
+      "popularity": 21
     },
     {
       "id": "queenz-eye",
@@ -793,7 +840,8 @@
       "generation": 4,
       "debutYear": 2022,
       "colorLight": "#2E639E",
-      "colorDark": "#2F70BB"
+      "colorDark": "#2F70BB",
+      "popularity": 0
     },
     {
       "id": "qwer",
@@ -802,7 +850,8 @@
       "generation": 5,
       "debutYear": 2023,
       "colorLight": "#325FAD",
-      "colorDark": "#356CCC"
+      "colorDark": "#356CCC",
+      "popularity": 12
     },
     {
       "id": "real-girls-project",
@@ -811,7 +860,8 @@
       "generation": 3,
       "debutYear": 2016,
       "colorLight": "#326E20",
-      "colorDark": "#367E20"
+      "colorDark": "#367E20",
+      "popularity": 5
     },
     {
       "id": "red-velvet",
@@ -820,7 +870,18 @@
       "generation": 3,
       "debutYear": 2014,
       "colorLight": "#A32F95",
-      "colorDark": "#BE2FAD"
+      "colorDark": "#BE2FAD",
+      "popularity": 62
+    },
+    {
+      "id": "rescene",
+      "name": "RESCENE",
+      "gender": "female",
+      "generation": 5,
+      "debutYear": 2024,
+      "colorLight": "#236979",
+      "colorDark": "#23798D",
+      "popularity": 14
     },
     {
       "id": "riize",
@@ -829,16 +890,8 @@
       "generation": 5,
       "debutYear": 2023,
       "colorLight": "#8D36BC",
-      "colorDark": "#9F43D0"
-    },
-    {
-      "id": "rocket-punch",
-      "name": "Rocket Punch",
-      "gender": "female",
-      "generation": 4,
-      "debutYear": 2019,
-      "colorLight": "#206F24",
-      "colorDark": "#208025"
+      "colorDark": "#9F43D0",
+      "popularity": 19
     },
     {
       "id": "rockit-girl",
@@ -847,7 +900,8 @@
       "generation": 4,
       "debutYear": 2019,
       "colorLight": "#2A668F",
-      "colorDark": "#2A75A6"
+      "colorDark": "#2A75A6",
+      "popularity": 2
     },
     {
       "id": "saturday",
@@ -856,7 +910,8 @@
       "generation": 4,
       "debutYear": 2018,
       "colorLight": "#4B6A1F",
-      "colorDark": "#547A1F"
+      "colorDark": "#547A1F",
+      "popularity": 11
     },
     {
       "id": "secret-number",
@@ -865,7 +920,8 @@
       "generation": 4,
       "debutYear": 2020,
       "colorLight": "#8B5428",
-      "colorDark": "#A15F28"
+      "colorDark": "#A15F28",
+      "popularity": 21
     },
     {
       "id": "seventeen",
@@ -874,7 +930,8 @@
       "generation": 3,
       "debutYear": 2015,
       "colorLight": "#24697E",
-      "colorDark": "#257892"
+      "colorDark": "#257892",
+      "popularity": 47
     },
     {
       "id": "shinee",
@@ -883,7 +940,8 @@
       "generation": 2,
       "debutYear": 2008,
       "colorLight": "#AB3267",
-      "colorDark": "#C93274"
+      "colorDark": "#C93274",
+      "popularity": 53
     },
     {
       "id": "stayc",
@@ -892,16 +950,18 @@
       "generation": 4,
       "debutYear": 2020,
       "colorLight": "#266F20",
-      "colorDark": "#278020"
+      "colorDark": "#278020",
+      "popularity": 30
     },
     {
       "id": "stray-kids",
       "name": "Stray Kids",
       "gender": "male",
-      "generation": 3,
-      "debutYear": 2017,
+      "generation": 4,
+      "debutYear": 2018,
       "colorLight": "#206B6F",
-      "colorDark": "#207A7F"
+      "colorDark": "#207A7F",
+      "popularity": 55
     },
     {
       "id": "super-junior",
@@ -910,7 +970,8 @@
       "generation": 2,
       "debutYear": 2005,
       "colorLight": "#206D55",
-      "colorDark": "#1F7D60"
+      "colorDark": "#1F7D60",
+      "popularity": 54
     },
     {
       "id": "t-ara",
@@ -919,34 +980,18 @@
       "generation": 2,
       "debutYear": 2009,
       "colorLight": "#5A671E",
-      "colorDark": "#68761E"
-    },
-    {
-      "id": "t-ara-n4",
-      "name": "T-ara N4",
-      "gender": "female",
-      "generation": 3,
-      "debutYear": 2013,
-      "colorLight": "#4754CA",
-      "colorDark": "#5864D5"
-    },
-    {
-      "id": "taetiseo",
-      "name": "TaeTiSeo",
-      "gender": "female",
-      "generation": 3,
-      "debutYear": 2012,
-      "colorLight": "#3C6C1F",
-      "colorDark": "#427D1F"
+      "colorDark": "#68761E",
+      "popularity": 38
     },
     {
       "id": "the-boyz",
-      "name": "The Boyz",
+      "name": "THE BOYZ",
       "gender": "male",
       "generation": 3,
       "debutYear": 2017,
       "colorLight": "#226A76",
-      "colorDark": "#227987"
+      "colorDark": "#227987",
+      "popularity": 29
     },
     {
       "id": "tomorrow-x-together",
@@ -955,7 +1000,8 @@
       "generation": 4,
       "debutYear": 2019,
       "colorLight": "#9D472E",
-      "colorDark": "#B94E2E"
+      "colorDark": "#B94E2E",
+      "popularity": 40
     },
     {
       "id": "treasure",
@@ -964,7 +1010,8 @@
       "generation": 4,
       "debutYear": 2020,
       "colorLight": "#AF3348",
-      "colorDark": "#CC354E"
+      "colorDark": "#CC354E",
+      "popularity": 28
     },
     {
       "id": "tri-be",
@@ -973,7 +1020,8 @@
       "generation": 4,
       "debutYear": 2021,
       "colorLight": "#9A31AA",
-      "colorDark": "#B332C7"
+      "colorDark": "#B332C7",
+      "popularity": 19
     },
     {
       "id": "triples",
@@ -982,7 +1030,8 @@
       "generation": 5,
       "debutYear": 2023,
       "colorLight": "#4256C8",
-      "colorDark": "#5265D4"
+      "colorDark": "#5265D4",
+      "popularity": 17
     },
     {
       "id": "tvxq",
@@ -991,7 +1040,8 @@
       "generation": 2,
       "debutYear": 2003,
       "colorLight": "#56681E",
-      "colorDark": "#61771E"
+      "colorDark": "#61771E",
+      "popularity": 44
     },
     {
       "id": "twice",
@@ -1000,7 +1050,8 @@
       "generation": 3,
       "debutYear": 2015,
       "colorLight": "#AA316E",
-      "colorDark": "#C7327D"
+      "colorDark": "#C7327D",
+      "popularity": 94
     },
     {
       "id": "tws",
@@ -1009,7 +1060,18 @@
       "generation": 5,
       "debutYear": 2024,
       "colorLight": "#206E3C",
-      "colorDark": "#207F41"
+      "colorDark": "#207F41",
+      "popularity": 18
+    },
+    {
+      "id": "unis",
+      "name": "UNIS",
+      "gender": "female",
+      "generation": 5,
+      "debutYear": 2024,
+      "colorLight": "#AA3173",
+      "colorDark": "#C63284",
+      "popularity": 16
     },
     {
       "id": "viviz",
@@ -1018,7 +1080,28 @@
       "generation": 4,
       "debutYear": 2022,
       "colorLight": "#AD325B",
-      "colorDark": "#CA3365"
+      "colorDark": "#CA3365",
+      "popularity": 24
+    },
+    {
+      "id": "vixx",
+      "name": "VIXX",
+      "gender": "male",
+      "generation": 3,
+      "debutYear": 2012,
+      "colorLight": "#8938C0",
+      "colorDark": "#9A47D1",
+      "popularity": 28
+    },
+    {
+      "id": "wayv",
+      "name": "WayV",
+      "gender": "male",
+      "generation": 4,
+      "debutYear": 2019,
+      "colorLight": "#6C47CA",
+      "colorDark": "#7B58D5",
+      "popularity": 27
     },
     {
       "id": "weeekly",
@@ -1027,16 +1110,8 @@
       "generation": 4,
       "debutYear": 2020,
       "colorLight": "#895528",
-      "colorDark": "#A06028"
-    },
-    {
-      "id": "weki-meki",
-      "name": "Weki Meki",
-      "gender": "female",
-      "generation": 3,
-      "debutYear": 2017,
-      "colorLight": "#8B37BF",
-      "colorDark": "#9B46D1"
+      "colorDark": "#A06028",
+      "popularity": 20
     },
     {
       "id": "winner",
@@ -1045,7 +1120,8 @@
       "generation": 3,
       "debutYear": 2014,
       "colorLight": "#A54130",
-      "colorDark": "#C14630"
+      "colorDark": "#C14630",
+      "popularity": 34
     },
     {
       "id": "wjsn",
@@ -1054,25 +1130,8 @@
       "generation": 3,
       "debutYear": 2016,
       "colorLight": "#24697D",
-      "colorDark": "#247890"
-    },
-    {
-      "id": "wjsn-chocome",
-      "name": "WJSN Chocome",
-      "gender": "female",
-      "generation": 4,
-      "debutYear": 2020,
-      "colorLight": "#AE3733",
-      "colorDark": "#CC3833"
-    },
-    {
-      "id": "wjsn-the-black",
-      "name": "WJSN The Black",
-      "gender": "female",
-      "generation": 4,
-      "debutYear": 2021,
-      "colorLight": "#4A6A1F",
-      "colorDark": "#537A1F"
+      "colorDark": "#247890",
+      "popularity": 30
     },
     {
       "id": "woo-ah",
@@ -1081,7 +1140,8 @@
       "generation": 4,
       "debutYear": 2020,
       "colorLight": "#325FAD",
-      "colorDark": "#356CCC"
+      "colorDark": "#356CCC",
+      "popularity": 18
     },
     {
       "id": "xdinary-heroes",
@@ -1090,7 +1150,8 @@
       "generation": 4,
       "debutYear": 2021,
       "colorLight": "#4754CA",
-      "colorDark": "#5864D5"
+      "colorDark": "#5864D5",
+      "popularity": 18
     },
     {
       "id": "xg",
@@ -1099,7 +1160,8 @@
       "generation": 4,
       "debutYear": 2022,
       "colorLight": "#4056C8",
-      "colorDark": "#5166D3"
+      "colorDark": "#5166D3",
+      "popularity": 0
     },
     {
       "id": "young-posse",
@@ -1108,7 +1170,8 @@
       "generation": 5,
       "debutYear": 2023,
       "colorLight": "#206D5B",
-      "colorDark": "#1F7D68"
+      "colorDark": "#1F7D68",
+      "popularity": 11
     },
     {
       "id": "zerobaseone",
@@ -1117,7 +1180,8 @@
       "generation": 5,
       "debutYear": 2023,
       "colorLight": "#53681E",
-      "colorDark": "#5F781E"
+      "colorDark": "#5F781E",
+      "popularity": 24
     }
   ],
   "idols": [
@@ -1146,14 +1210,8 @@
       "positions": []
     },
     {
-      "id": "2pm-hwang-chansung",
-      "name": "Hwang Chansung",
-      "groupId": "2pm",
-      "positions": []
-    },
-    {
-      "id": "2pm-jang-wooyoung",
-      "name": "Jang Wooyoung",
+      "id": "2pm-chansung",
+      "name": "Chansung",
       "groupId": "2pm",
       "positions": []
     },
@@ -1164,8 +1222,8 @@
       "positions": []
     },
     {
-      "id": "2pm-lee-jun-ho",
-      "name": "Lee Jun-ho",
+      "id": "2pm-junho",
+      "name": "Junho",
       "groupId": "2pm",
       "positions": []
     },
@@ -1176,8 +1234,14 @@
       "positions": []
     },
     {
-      "id": "2pm-ok-taec-yeon",
-      "name": "Ok Taec-yeon",
+      "id": "2pm-taecyeon",
+      "name": "Taecyeon",
+      "groupId": "2pm",
+      "positions": []
+    },
+    {
+      "id": "2pm-wooyoung",
+      "name": "Wooyoung",
       "groupId": "2pm",
       "positions": []
     },
@@ -1250,27 +1314,27 @@
       "positions": []
     },
     {
-      "id": "acid-angel-from-asia-hyerin",
-      "name": "Hyerin",
-      "groupId": "acid-angel-from-asia",
+      "id": "ab6ix-daehwi",
+      "name": "Daehwi",
+      "groupId": "ab6ix",
       "positions": []
     },
     {
-      "id": "acid-angel-from-asia-nakyoung",
-      "name": "Nakyoung",
-      "groupId": "acid-angel-from-asia",
+      "id": "ab6ix-donghyun",
+      "name": "Donghyun",
+      "groupId": "ab6ix",
       "positions": []
     },
     {
-      "id": "acid-angel-from-asia-yooyeon",
-      "name": "Yooyeon",
-      "groupId": "acid-angel-from-asia",
+      "id": "ab6ix-woojin",
+      "name": "Woojin",
+      "groupId": "ab6ix",
       "positions": []
     },
     {
-      "id": "acid-angel-from-asia-yubin",
-      "name": "Yubin",
-      "groupId": "acid-angel-from-asia",
+      "id": "ab6ix-woong",
+      "name": "Woong",
+      "groupId": "ab6ix",
       "positions": []
     },
     {
@@ -1449,6 +1513,36 @@
       "positions": []
     },
     {
+      "id": "artms-choerry",
+      "name": "Choerry",
+      "groupId": "artms",
+      "positions": []
+    },
+    {
+      "id": "artms-haseul",
+      "name": "Haseul",
+      "groupId": "artms",
+      "positions": []
+    },
+    {
+      "id": "artms-heejin",
+      "name": "Heejin",
+      "groupId": "artms",
+      "positions": []
+    },
+    {
+      "id": "artms-jinsoul",
+      "name": "JinSoul",
+      "groupId": "artms",
+      "positions": []
+    },
+    {
+      "id": "artms-kim-lip",
+      "name": "Kim Lip",
+      "groupId": "artms",
+      "positions": []
+    },
+    {
       "id": "astro-cha-eun-woo",
       "name": "Cha Eun-woo",
       "groupId": "astro",
@@ -1467,56 +1561,56 @@
       "positions": []
     },
     {
-      "id": "astro-yoon-san-ha",
-      "name": "Yoon San-ha",
+      "id": "astro-sanha",
+      "name": "Sanha",
       "groupId": "astro",
       "positions": []
     },
     {
-      "id": "ateez-choi-jong-ho",
-      "name": "Choi Jong-ho",
+      "id": "ateez-hongjoong",
+      "name": "Hongjoong",
       "groupId": "ateez",
       "positions": []
     },
     {
-      "id": "ateez-choi-san",
-      "name": "Choi San",
+      "id": "ateez-jongho",
+      "name": "Jongho",
       "groupId": "ateez",
       "positions": []
     },
     {
-      "id": "ateez-jeong-yun-ho",
-      "name": "Jeong Yun-ho",
+      "id": "ateez-mingi",
+      "name": "Mingi",
       "groupId": "ateez",
       "positions": []
     },
     {
-      "id": "ateez-jung-woo-young",
-      "name": "Jung Woo-young",
+      "id": "ateez-san",
+      "name": "San",
       "groupId": "ateez",
       "positions": []
     },
     {
-      "id": "ateez-kang-yeo-sang",
-      "name": "Kang Yeo-sang",
+      "id": "ateez-seonghwa",
+      "name": "Seonghwa",
       "groupId": "ateez",
       "positions": []
     },
     {
-      "id": "ateez-kim-hong-joong",
-      "name": "Kim Hong-joong",
+      "id": "ateez-wooyoung",
+      "name": "Wooyoung",
       "groupId": "ateez",
       "positions": []
     },
     {
-      "id": "ateez-park-seong-hwa",
-      "name": "Park Seong-hwa",
+      "id": "ateez-yeosang",
+      "name": "Yeosang",
       "groupId": "ateez",
       "positions": []
     },
     {
-      "id": "ateez-song-min-gi",
-      "name": "Song Min-gi",
+      "id": "ateez-yunho",
+      "name": "Yunho",
       "groupId": "ateez",
       "positions": []
     },
@@ -1536,6 +1630,48 @@
       "id": "b1a4-sandeul",
       "name": "Sandeul",
       "groupId": "b1a4",
+      "positions": []
+    },
+    {
+      "id": "babymonster-ahyeon",
+      "name": "Ahyeon",
+      "groupId": "babymonster",
+      "positions": []
+    },
+    {
+      "id": "babymonster-asa",
+      "name": "Asa",
+      "groupId": "babymonster",
+      "positions": []
+    },
+    {
+      "id": "babymonster-chiquita",
+      "name": "Chiquita",
+      "groupId": "babymonster",
+      "positions": []
+    },
+    {
+      "id": "babymonster-pharita",
+      "name": "Pharita",
+      "groupId": "babymonster",
+      "positions": []
+    },
+    {
+      "id": "babymonster-rami",
+      "name": "Rami",
+      "groupId": "babymonster",
+      "positions": []
+    },
+    {
+      "id": "babymonster-rora",
+      "name": "Rora",
+      "groupId": "babymonster",
+      "positions": []
+    },
+    {
+      "id": "babymonster-ruka",
+      "name": "Ruka",
+      "groupId": "babymonster",
       "positions": []
     },
     {
@@ -1623,22 +1759,22 @@
       ]
     },
     {
-      "id": "blackpink-rose",
-      "name": "Rose",
+      "id": "blackpink-ros",
+      "name": "Rosé",
       "groupId": "blackpink",
       "positions": [
         "Main Vocal"
       ]
     },
     {
-      "id": "boynextdoor-leehan",
-      "name": "Leehan",
+      "id": "boynextdoor-jaehyun",
+      "name": "Jaehyun",
       "groupId": "boynextdoor",
       "positions": []
     },
     {
-      "id": "boynextdoor-myung-jaehyun",
-      "name": "Myung Jaehyun",
+      "id": "boynextdoor-leehan",
+      "name": "Leehan",
       "groupId": "boynextdoor",
       "positions": []
     },
@@ -1691,6 +1827,42 @@
       "positions": []
     },
     {
+      "id": "btob-changsub",
+      "name": "Changsub",
+      "groupId": "btob",
+      "positions": []
+    },
+    {
+      "id": "btob-eunkwang",
+      "name": "Eunkwang",
+      "groupId": "btob",
+      "positions": []
+    },
+    {
+      "id": "btob-hyunsik",
+      "name": "Hyunsik",
+      "groupId": "btob",
+      "positions": []
+    },
+    {
+      "id": "btob-minhyuk",
+      "name": "Minhyuk",
+      "groupId": "btob",
+      "positions": []
+    },
+    {
+      "id": "btob-peniel",
+      "name": "Peniel",
+      "groupId": "btob",
+      "positions": []
+    },
+    {
+      "id": "btob-sungjae",
+      "name": "Sungjae",
+      "groupId": "btob",
+      "positions": []
+    },
+    {
       "id": "bts-j-hope",
       "name": "J-Hope",
       "groupId": "bts",
@@ -1703,14 +1875,14 @@
       "positions": []
     },
     {
-      "id": "bts-jungkook",
-      "name": "Jungkook",
+      "id": "bts-jin",
+      "name": "Jin",
       "groupId": "bts",
       "positions": []
     },
     {
-      "id": "bts-kim-seok-jin",
-      "name": "Kim Seok-jin",
+      "id": "bts-jungkook",
+      "name": "Jungkook",
       "groupId": "bts",
       "positions": []
     },
@@ -1763,64 +1935,6 @@
       "positions": []
     },
     {
-      "id": "cherry-bullet-bora",
-      "name": "Bora",
-      "groupId": "cherry-bullet",
-      "positions": []
-    },
-    {
-      "id": "cherry-bullet-chaerin",
-      "name": "Chaerin",
-      "groupId": "cherry-bullet",
-      "positions": []
-    },
-    {
-      "id": "cherry-bullet-haeyoon",
-      "name": "Haeyoon",
-      "groupId": "cherry-bullet",
-      "positions": []
-    },
-    {
-      "id": "cherry-bullet-jiwon",
-      "name": "Jiwon",
-      "groupId": "cherry-bullet",
-      "positions": [
-        "Center"
-      ]
-    },
-    {
-      "id": "cherry-bullet-may",
-      "name": "May",
-      "groupId": "cherry-bullet",
-      "positions": [
-        "Maknae"
-      ]
-    },
-    {
-      "id": "cherry-bullet-remi",
-      "name": "Remi",
-      "groupId": "cherry-bullet",
-      "positions": []
-    },
-    {
-      "id": "cherry-bullet-yuju",
-      "name": "Yuju",
-      "groupId": "cherry-bullet",
-      "positions": []
-    },
-    {
-      "id": "chobom-bomi",
-      "name": "Bomi",
-      "groupId": "chobom",
-      "positions": []
-    },
-    {
-      "id": "chobom-chorong",
-      "name": "Chorong",
-      "groupId": "chobom",
-      "positions": []
-    },
-    {
       "id": "cignature-belle",
       "name": "Belle",
       "groupId": "cignature",
@@ -1863,69 +1977,51 @@
       "positions": []
     },
     {
-      "id": "class-y-boeun",
-      "name": "Boeun",
-      "groupId": "class-y",
-      "positions": []
-    },
-    {
-      "id": "class-y-chaewon",
-      "name": "Chaewon",
-      "groupId": "class-y",
-      "positions": []
-    },
-    {
-      "id": "class-y-hyeju",
-      "name": "Hyeju",
-      "groupId": "class-y",
-      "positions": []
-    },
-    {
-      "id": "class-y-hyungseo",
-      "name": "Hyungseo",
-      "groupId": "class-y",
-      "positions": []
-    },
-    {
-      "id": "class-y-jimin",
-      "name": "Jimin",
-      "groupId": "class-y",
-      "positions": []
-    },
-    {
-      "id": "class-y-riwon",
-      "name": "Riwon",
-      "groupId": "class-y",
-      "positions": []
-    },
-    {
-      "id": "class-y-seonyou",
-      "name": "Seonyou",
-      "groupId": "class-y",
-      "positions": []
-    },
-    {
-      "id": "cnblue-jung-yong-hwa",
-      "name": "Jung Yong-hwa",
+      "id": "cnblue-jungshin",
+      "name": "Jungshin",
       "groupId": "cnblue",
       "positions": []
     },
     {
-      "id": "cnblue-kang-min-hyuk",
-      "name": "Kang Min-hyuk",
+      "id": "cnblue-minhyuk",
+      "name": "Minhyuk",
       "groupId": "cnblue",
       "positions": []
     },
     {
-      "id": "cnblue-lee-jong-hyun",
-      "name": "Lee Jong-hyun",
+      "id": "cnblue-yonghwa",
+      "name": "Yonghwa",
       "groupId": "cnblue",
       "positions": []
     },
     {
-      "id": "cnblue-lee-jung-shin",
-      "name": "Lee Jung-shin",
-      "groupId": "cnblue",
+      "id": "cortis-james",
+      "name": "James",
+      "groupId": "cortis",
+      "positions": []
+    },
+    {
+      "id": "cortis-juhoon",
+      "name": "Juhoon",
+      "groupId": "cortis",
+      "positions": []
+    },
+    {
+      "id": "cortis-keonho",
+      "name": "Keonho",
+      "groupId": "cortis",
+      "positions": []
+    },
+    {
+      "id": "cortis-martin",
+      "name": "Martin",
+      "groupId": "cortis",
+      "positions": []
+    },
+    {
+      "id": "cortis-seonghyeon",
+      "name": "Seonghyeon",
+      "groupId": "cortis",
       "positions": []
     },
     {
@@ -1935,32 +2031,20 @@
       "positions": []
     },
     {
-      "id": "cravity-ham-won-jin",
-      "name": "Ham Won-jin",
+      "id": "cravity-hyeongjun",
+      "name": "Hyeongjun",
       "groupId": "cravity",
       "positions": []
     },
     {
-      "id": "cravity-kang-min-hee",
-      "name": "Kang Min-hee",
+      "id": "cravity-jungmo",
+      "name": "Jungmo",
       "groupId": "cravity",
       "positions": []
     },
     {
-      "id": "cravity-kim-tae-young",
-      "name": "Kim Tae-young",
-      "groupId": "cravity",
-      "positions": []
-    },
-    {
-      "id": "cravity-koo-jung-mo",
-      "name": "Koo Jung-mo",
-      "groupId": "cravity",
-      "positions": []
-    },
-    {
-      "id": "cravity-seo-woo-bin",
-      "name": "Seo Woo-bin",
+      "id": "cravity-minhee",
+      "name": "Minhee",
       "groupId": "cravity",
       "positions": []
     },
@@ -1977,8 +2061,20 @@
       "positions": []
     },
     {
-      "id": "cravity-song-hyeong-jun",
-      "name": "Song Hyeong-jun",
+      "id": "cravity-taeyoung",
+      "name": "Taeyoung",
+      "groupId": "cravity",
+      "positions": []
+    },
+    {
+      "id": "cravity-wonjin",
+      "name": "Wonjin",
+      "groupId": "cravity",
+      "positions": []
+    },
+    {
+      "id": "cravity-woobin",
+      "name": "Woobin",
       "groupId": "cravity",
       "positions": []
     },
@@ -2078,18 +2174,6 @@
       ]
     },
     {
-      "id": "dasoni-hani",
-      "name": "Hani",
-      "groupId": "dasoni",
-      "positions": []
-    },
-    {
-      "id": "dasoni-solji",
-      "name": "Solji",
-      "groupId": "dasoni",
-      "positions": []
-    },
-    {
       "id": "davichi-kang-minkyoung",
       "name": "Kang Minkyoung",
       "groupId": "davichi",
@@ -2105,6 +2189,30 @@
         "Leader",
         "Main Vocal"
       ]
+    },
+    {
+      "id": "day6-dowoon",
+      "name": "Dowoon",
+      "groupId": "day6",
+      "positions": []
+    },
+    {
+      "id": "day6-sungjin",
+      "name": "Sungjin",
+      "groupId": "day6",
+      "positions": []
+    },
+    {
+      "id": "day6-wonpil",
+      "name": "Wonpil",
+      "groupId": "day6",
+      "positions": []
+    },
+    {
+      "id": "day6-young-k",
+      "name": "Young K",
+      "groupId": "day6",
+      "positions": []
     },
     {
       "id": "dreamcatcher-dami",
@@ -2200,8 +2308,8 @@
       ]
     },
     {
-      "id": "enhypen-jake-sim",
-      "name": "Jake Sim",
+      "id": "enhypen-jake",
+      "name": "Jake",
       "groupId": "enhypen",
       "positions": []
     },
@@ -2212,26 +2320,26 @@
       "positions": []
     },
     {
-      "id": "enhypen-ni-ki",
-      "name": "Ni-Ki",
+      "id": "enhypen-jungwon",
+      "name": "Jungwon",
       "groupId": "enhypen",
       "positions": []
     },
     {
-      "id": "enhypen-park-sung-hoon",
-      "name": "Park Sung-hoon",
+      "id": "enhypen-ni-ki",
+      "name": "NI-KI",
+      "groupId": "enhypen",
+      "positions": []
+    },
+    {
+      "id": "enhypen-sunghoon",
+      "name": "Sunghoon",
       "groupId": "enhypen",
       "positions": []
     },
     {
       "id": "enhypen-sunoo",
       "name": "Sunoo",
-      "groupId": "enhypen",
-      "positions": []
-    },
-    {
-      "id": "enhypen-yang-jung-won",
-      "name": "Yang Jung-won",
       "groupId": "enhypen",
       "positions": []
     },
@@ -2288,54 +2396,6 @@
       ]
     },
     {
-      "id": "evolution-chaeyeon",
-      "name": "Chaeyeon",
-      "groupId": "evolution",
-      "positions": []
-    },
-    {
-      "id": "evolution-jiwoo",
-      "name": "Jiwoo",
-      "groupId": "evolution",
-      "positions": []
-    },
-    {
-      "id": "evolution-kotone",
-      "name": "Kotone",
-      "groupId": "evolution",
-      "positions": []
-    },
-    {
-      "id": "evolution-mayu",
-      "name": "Mayu",
-      "groupId": "evolution",
-      "positions": []
-    },
-    {
-      "id": "evolution-nakyoung",
-      "name": "Nakyoung",
-      "groupId": "evolution",
-      "positions": []
-    },
-    {
-      "id": "evolution-soomin",
-      "name": "Soomin",
-      "groupId": "evolution",
-      "positions": []
-    },
-    {
-      "id": "evolution-yeonji",
-      "name": "Yeonji",
-      "groupId": "evolution",
-      "positions": []
-    },
-    {
-      "id": "evolution-yooyeon",
-      "name": "Yooyeon",
-      "groupId": "evolution",
-      "positions": []
-    },
-    {
       "id": "exid-hani",
       "name": "Hani",
       "groupId": "exid",
@@ -2381,8 +2441,14 @@
       ]
     },
     {
-      "id": "exo-byun-baek-hyun",
-      "name": "Byun Baek-hyun",
+      "id": "exo-baekhyun",
+      "name": "Baekhyun",
+      "groupId": "exo",
+      "positions": []
+    },
+    {
+      "id": "exo-chanyeol",
+      "name": "Chanyeol",
       "groupId": "exo",
       "positions": []
     },
@@ -2393,8 +2459,8 @@
       "positions": []
     },
     {
-      "id": "exo-doh-kyung-soo",
-      "name": "Doh Kyung-soo",
+      "id": "exo-d-o",
+      "name": "D.O.",
       "groupId": "exo",
       "positions": []
     },
@@ -2405,14 +2471,8 @@
       "positions": []
     },
     {
-      "id": "exo-oh-se-hun",
-      "name": "Oh Se-hun",
-      "groupId": "exo",
-      "positions": []
-    },
-    {
-      "id": "exo-park-chan-yeol",
-      "name": "Park Chan-yeol",
+      "id": "exo-sehun",
+      "name": "Sehun",
       "groupId": "exo",
       "positions": []
     },
@@ -2455,24 +2515,6 @@
       "positions": []
     },
     {
-      "id": "fanatics-flavor-chiayi",
-      "name": "Chiayi",
-      "groupId": "fanatics-flavor",
-      "positions": []
-    },
-    {
-      "id": "fanatics-flavor-doah",
-      "name": "Doah",
-      "groupId": "fanatics-flavor",
-      "positions": []
-    },
-    {
-      "id": "fanatics-flavor-yoonhye",
-      "name": "Yoonhye",
-      "groupId": "fanatics-flavor",
-      "positions": []
-    },
-    {
       "id": "fanatics-rayeon",
       "name": "Rayeon",
       "groupId": "fanatics",
@@ -2499,8 +2541,20 @@
       "positions": []
     },
     {
-      "id": "fifty-fifty-aran",
-      "name": "Aran",
+      "id": "fifty-fifty-athena",
+      "name": "Athena",
+      "groupId": "fifty-fifty",
+      "positions": []
+    },
+    {
+      "id": "fifty-fifty-chanelle",
+      "name": "Chanelle",
+      "groupId": "fifty-fifty",
+      "positions": []
+    },
+    {
+      "id": "fifty-fifty-hana",
+      "name": "Hana",
       "groupId": "fifty-fifty",
       "positions": []
     },
@@ -2511,14 +2565,8 @@
       "positions": []
     },
     {
-      "id": "fifty-fifty-saena",
-      "name": "Saena",
-      "groupId": "fifty-fifty",
-      "positions": []
-    },
-    {
-      "id": "fifty-fifty-sio",
-      "name": "Sio",
+      "id": "fifty-fifty-yewon",
+      "name": "Yewon",
       "groupId": "fifty-fifty",
       "positions": []
     },
@@ -2543,30 +2591,6 @@
       "positions": []
     },
     {
-      "id": "fromis-9-lee-saerom",
-      "name": "Lee Saerom",
-      "groupId": "fromis-9",
-      "positions": [
-        "Leader"
-      ]
-    },
-    {
-      "id": "fromis-9-lee-seoyeon",
-      "name": "Lee Seoyeon",
-      "groupId": "fromis-9",
-      "positions": [
-        "Main Rapper"
-      ]
-    },
-    {
-      "id": "fromis-9-noh-jisun",
-      "name": "Noh Jisun",
-      "groupId": "fromis-9",
-      "positions": [
-        "Center"
-      ]
-    },
-    {
       "id": "fromis-9-park-jiwon",
       "name": "Park Jiwon",
       "groupId": "fromis-9",
@@ -2578,43 +2602,6 @@
       "id": "fromis-9-song-hayoung",
       "name": "Song Hayoung",
       "groupId": "fromis-9",
-      "positions": []
-    },
-    {
-      "id": "g-i-dle-minnie",
-      "name": "Minnie",
-      "groupId": "g-i-dle",
-      "positions": []
-    },
-    {
-      "id": "g-i-dle-miyeon",
-      "name": "Miyeon",
-      "groupId": "g-i-dle",
-      "positions": [
-        "Main Vocal"
-      ]
-    },
-    {
-      "id": "g-i-dle-shuhua",
-      "name": "Shuhua",
-      "groupId": "g-i-dle",
-      "positions": [
-        "Maknae"
-      ]
-    },
-    {
-      "id": "g-i-dle-soyeon",
-      "name": "Soyeon",
-      "groupId": "g-i-dle",
-      "positions": [
-        "Leader",
-        "Main Rapper"
-      ]
-    },
-    {
-      "id": "g-i-dle-yuqi",
-      "name": "Yuqi",
-      "groupId": "g-i-dle",
       "positions": []
     },
     {
@@ -2674,62 +2661,14 @@
       "positions": []
     },
     {
-      "id": "got-the-beat-boa",
-      "name": "BoA",
-      "groupId": "got-the-beat",
-      "positions": []
-    },
-    {
-      "id": "got-the-beat-hyoyeon",
-      "name": "Hyoyeon",
-      "groupId": "got-the-beat",
-      "positions": []
-    },
-    {
-      "id": "got-the-beat-karina",
-      "name": "Karina",
-      "groupId": "got-the-beat",
-      "positions": []
-    },
-    {
-      "id": "got-the-beat-seulgi",
-      "name": "Seulgi",
-      "groupId": "got-the-beat",
-      "positions": []
-    },
-    {
-      "id": "got-the-beat-taeyeon",
-      "name": "Taeyeon",
-      "groupId": "got-the-beat",
-      "positions": []
-    },
-    {
-      "id": "got-the-beat-wendy",
-      "name": "Wendy",
-      "groupId": "got-the-beat",
-      "positions": []
-    },
-    {
-      "id": "got-the-beat-winter",
-      "name": "Winter",
-      "groupId": "got-the-beat",
-      "positions": []
-    },
-    {
       "id": "got7-bambam",
       "name": "BamBam",
       "groupId": "got7",
       "positions": []
     },
     {
-      "id": "got7-choi-young-jae",
-      "name": "Choi Young-jae",
-      "groupId": "got7",
-      "positions": []
-    },
-    {
-      "id": "got7-jackson-wang",
-      "name": "Jackson Wang",
+      "id": "got7-jackson",
+      "name": "Jackson",
       "groupId": "got7",
       "positions": []
     },
@@ -2740,72 +2679,27 @@
       "positions": []
     },
     {
-      "id": "got7-kim-yu-gyeom",
-      "name": "Kim Yu-gyeom",
+      "id": "got7-jinyoung",
+      "name": "Jinyoung",
       "groupId": "got7",
       "positions": []
     },
     {
-      "id": "got7-mark-tuan",
-      "name": "Mark Tuan",
+      "id": "got7-mark",
+      "name": "Mark",
       "groupId": "got7",
       "positions": []
     },
     {
-      "id": "got7-park-jin-young",
-      "name": "Park Jin-young",
+      "id": "got7-youngjae",
+      "name": "Youngjae",
       "groupId": "got7",
       "positions": []
     },
     {
-      "id": "gwsn-anne",
-      "name": "Anne",
-      "groupId": "gwsn",
-      "positions": [
-        "Main Rapper"
-      ]
-    },
-    {
-      "id": "gwsn-lena",
-      "name": "Lena",
-      "groupId": "gwsn",
-      "positions": [
-        "Main Vocal",
-        "Maknae"
-      ]
-    },
-    {
-      "id": "gwsn-minju",
-      "name": "Minju",
-      "groupId": "gwsn",
-      "positions": []
-    },
-    {
-      "id": "gwsn-miya",
-      "name": "Miya",
-      "groupId": "gwsn",
-      "positions": []
-    },
-    {
-      "id": "gwsn-seokyoung",
-      "name": "Seokyoung",
-      "groupId": "gwsn",
-      "positions": [
-        "Main Dancer"
-      ]
-    },
-    {
-      "id": "gwsn-seoryoung",
-      "name": "Seoryoung",
-      "groupId": "gwsn",
-      "positions": [
-        "Leader"
-      ]
-    },
-    {
-      "id": "gwsn-soso",
-      "name": "Soso",
-      "groupId": "gwsn",
+      "id": "got7-yugyeom",
+      "name": "Yugyeom",
+      "groupId": "got7",
       "positions": []
     },
     {
@@ -2877,47 +2771,112 @@
       "positions": []
     },
     {
-      "id": "highlight-lee-gi-kwang",
-      "name": "Lee Gi-kwang",
+      "id": "hearts2hearts-a-na",
+      "name": "A-na",
+      "groupId": "hearts2hearts",
+      "positions": []
+    },
+    {
+      "id": "hearts2hearts-carmen",
+      "name": "Carmen",
+      "groupId": "hearts2hearts",
+      "positions": []
+    },
+    {
+      "id": "hearts2hearts-ian",
+      "name": "Ian",
+      "groupId": "hearts2hearts",
+      "positions": []
+    },
+    {
+      "id": "hearts2hearts-jiwoo",
+      "name": "Jiwoo",
+      "groupId": "hearts2hearts",
+      "positions": []
+    },
+    {
+      "id": "hearts2hearts-juun",
+      "name": "Juun",
+      "groupId": "hearts2hearts",
+      "positions": []
+    },
+    {
+      "id": "hearts2hearts-stella",
+      "name": "Stella",
+      "groupId": "hearts2hearts",
+      "positions": []
+    },
+    {
+      "id": "hearts2hearts-ye-on",
+      "name": "Ye-on",
+      "groupId": "hearts2hearts",
+      "positions": []
+    },
+    {
+      "id": "hearts2hearts-yuha",
+      "name": "Yuha",
+      "groupId": "hearts2hearts",
+      "positions": []
+    },
+    {
+      "id": "highlight-dongwoon",
+      "name": "Dongwoon",
       "groupId": "highlight",
       "positions": []
     },
     {
-      "id": "highlight-roh-ji-hoon",
-      "name": "Roh Ji-hoon",
+      "id": "highlight-doojoon",
+      "name": "Doojoon",
       "groupId": "highlight",
       "positions": []
     },
     {
-      "id": "highlight-son-dong-woon",
-      "name": "Son Dong-woon",
+      "id": "highlight-gikwang",
+      "name": "Gikwang",
       "groupId": "highlight",
       "positions": []
     },
     {
-      "id": "highlight-yang-yo-seob",
-      "name": "Yang Yo-seob",
+      "id": "highlight-yoseob",
+      "name": "Yoseob",
       "groupId": "highlight",
       "positions": []
     },
     {
-      "id": "highlight-yoon-doo-joon",
-      "name": "Yoon Doo-joon",
-      "groupId": "highlight",
+      "id": "i-dle-minnie",
+      "name": "Minnie",
+      "groupId": "i-dle",
       "positions": []
     },
     {
-      "id": "honey-popcorn-mikami-yua",
-      "name": "Mikami Yua",
-      "groupId": "honey-popcorn",
+      "id": "i-dle-miyeon",
+      "name": "Miyeon",
+      "groupId": "i-dle",
       "positions": [
-        "Center"
+        "Main Vocal"
       ]
     },
     {
-      "id": "honey-popcorn-sakura-moko",
-      "name": "Sakura Moko",
-      "groupId": "honey-popcorn",
+      "id": "i-dle-shuhua",
+      "name": "Shuhua",
+      "groupId": "i-dle",
+      "positions": [
+        "Maknae"
+      ]
+    },
+    {
+      "id": "i-dle-soyeon",
+      "name": "Soyeon",
+      "groupId": "i-dle",
+      "positions": [
+        "Leader",
+        "Main Rapper"
+      ]
+    },
+    {
+      "id": "i-dle-yuqi",
+      "name": "Yuqi",
+      "groupId": "i-dle",
       "positions": []
     },
     {
@@ -2969,33 +2928,63 @@
       "positions": []
     },
     {
-      "id": "ikon-jung-chanwoo",
-      "name": "Jung Chanwoo",
+      "id": "ikon-chanwoo",
+      "name": "Chanwoo",
       "groupId": "ikon",
       "positions": []
     },
     {
-      "id": "ikon-kim-dong-hyuk",
-      "name": "Kim Dong-hyuk",
+      "id": "ikon-dk",
+      "name": "DK",
       "groupId": "ikon",
       "positions": []
     },
     {
-      "id": "ikon-kim-jin-hwan",
-      "name": "Kim Jin-hwan",
+      "id": "ikon-jinhwan",
+      "name": "Jinhwan",
       "groupId": "ikon",
       "positions": []
     },
     {
-      "id": "ikon-koo-jun-hoe",
-      "name": "Koo Jun-hoe",
+      "id": "ikon-ju-ne",
+      "name": "Ju-ne",
       "groupId": "ikon",
       "positions": []
     },
     {
-      "id": "ikon-song-yun-hyeong",
-      "name": "Song Yun-hyeong",
+      "id": "ikon-yunhyeong",
+      "name": "Yunhyeong",
       "groupId": "ikon",
+      "positions": []
+    },
+    {
+      "id": "illit-iroha",
+      "name": "Iroha",
+      "groupId": "illit",
+      "positions": []
+    },
+    {
+      "id": "illit-minju",
+      "name": "Minju",
+      "groupId": "illit",
+      "positions": []
+    },
+    {
+      "id": "illit-moka",
+      "name": "Moka",
+      "groupId": "illit",
+      "positions": []
+    },
+    {
+      "id": "illit-wonhee",
+      "name": "Wonhee",
+      "groupId": "illit",
+      "positions": []
+    },
+    {
+      "id": "illit-yunah",
+      "name": "Yunah",
+      "groupId": "illit",
       "positions": []
     },
     {
@@ -3035,38 +3024,38 @@
       "positions": []
     },
     {
-      "id": "infinite-jang-dong-woo",
-      "name": "Jang Dong-woo",
+      "id": "infinite-dongwoo",
+      "name": "Dongwoo",
       "groupId": "infinite",
       "positions": []
     },
     {
-      "id": "infinite-kim-myung-soo",
-      "name": "Kim Myung-soo",
+      "id": "infinite-l",
+      "name": "L",
       "groupId": "infinite",
       "positions": []
     },
     {
-      "id": "infinite-kim-sung-kyu",
-      "name": "Kim Sung-kyu",
+      "id": "infinite-sunggyu",
+      "name": "Sunggyu",
       "groupId": "infinite",
       "positions": []
     },
     {
-      "id": "infinite-lee-sung-jong",
-      "name": "Lee Sung-jong",
+      "id": "infinite-sungjong",
+      "name": "Sungjong",
       "groupId": "infinite",
       "positions": []
     },
     {
-      "id": "infinite-lee-sungyeol",
-      "name": "Lee Sungyeol",
+      "id": "infinite-sungyeol",
+      "name": "Sungyeol",
       "groupId": "infinite",
       "positions": []
     },
     {
-      "id": "infinite-nam-woo-hyun",
-      "name": "Nam Woo-hyun",
+      "id": "infinite-woohyun",
+      "name": "Woohyun",
       "groupId": "infinite",
       "positions": []
     },
@@ -3172,23 +3161,39 @@
       "positions": []
     },
     {
-      "id": "kard-jeon-jiwoo",
-      "name": "Jeon Jiwoo",
-      "groupId": "kard",
+      "id": "izna-jeemin",
+      "name": "Jeemin",
+      "groupId": "izna",
       "positions": []
     },
     {
-      "id": "kard-jeon-somin",
-      "name": "Jeon Somin",
-      "groupId": "kard",
-      "positions": [
-        "Main Vocal"
-      ]
+      "id": "izna-jungeun",
+      "name": "Jungeun",
+      "groupId": "izna",
+      "positions": []
     },
     {
-      "id": "kep1er-bahiyyih",
-      "name": "Bahiyyih",
-      "groupId": "kep1er",
+      "id": "izna-koko",
+      "name": "Koko",
+      "groupId": "izna",
+      "positions": []
+    },
+    {
+      "id": "izna-mai",
+      "name": "Mai",
+      "groupId": "izna",
+      "positions": []
+    },
+    {
+      "id": "izna-saebi",
+      "name": "Saebi",
+      "groupId": "izna",
+      "positions": []
+    },
+    {
+      "id": "izna-sarang",
+      "name": "Sarang",
+      "groupId": "izna",
       "positions": []
     },
     {
@@ -3228,39 +3233,63 @@
       "positions": []
     },
     {
-      "id": "kep1er-youngeun",
-      "name": "Youngeun",
-      "groupId": "kep1er",
-      "positions": []
-    },
-    {
       "id": "kep1er-yujin",
       "name": "Yujin",
       "groupId": "kep1er",
       "positions": []
     },
     {
-      "id": "kr-ystal-eyes-chaeyeon",
-      "name": "Chaeyeon",
-      "groupId": "kr-ystal-eyes",
+      "id": "kiiikiii-haum",
+      "name": "Haum",
+      "groupId": "kiiikiii",
       "positions": []
     },
     {
-      "id": "kr-ystal-eyes-jiwoo",
-      "name": "Jiwoo",
-      "groupId": "kr-ystal-eyes",
+      "id": "kiiikiii-jiyu",
+      "name": "Jiyu",
+      "groupId": "kiiikiii",
       "positions": []
     },
     {
-      "id": "kr-ystal-eyes-seoyeon",
-      "name": "Seoyeon",
-      "groupId": "kr-ystal-eyes",
+      "id": "kiiikiii-kya",
+      "name": "Kya",
+      "groupId": "kiiikiii",
       "positions": []
     },
     {
-      "id": "kr-ystal-eyes-soomin",
-      "name": "Soomin",
-      "groupId": "kr-ystal-eyes",
+      "id": "kiiikiii-leesol",
+      "name": "Leesol",
+      "groupId": "kiiikiii",
+      "positions": []
+    },
+    {
+      "id": "kiiikiii-sui",
+      "name": "Sui",
+      "groupId": "kiiikiii",
+      "positions": []
+    },
+    {
+      "id": "kiss-of-life-belle",
+      "name": "Belle",
+      "groupId": "kiss-of-life",
+      "positions": []
+    },
+    {
+      "id": "kiss-of-life-haneul",
+      "name": "Haneul",
+      "groupId": "kiss-of-life",
+      "positions": []
+    },
+    {
+      "id": "kiss-of-life-julie",
+      "name": "Julie",
+      "groupId": "kiss-of-life",
+      "positions": []
+    },
+    {
+      "id": "kiss-of-life-natty",
+      "name": "Natty",
+      "groupId": "kiss-of-life",
       "positions": []
     },
     {
@@ -3384,180 +3413,6 @@
       "positions": []
     },
     {
-      "id": "loona-1-3-haseul",
-      "name": "Haseul",
-      "groupId": "loona-1-3",
-      "positions": []
-    },
-    {
-      "id": "loona-1-3-heejin",
-      "name": "Heejin",
-      "groupId": "loona-1-3",
-      "positions": []
-    },
-    {
-      "id": "loona-1-3-hyunjin",
-      "name": "Hyunjin",
-      "groupId": "loona-1-3",
-      "positions": []
-    },
-    {
-      "id": "loona-1-3-vivi",
-      "name": "Vivi",
-      "groupId": "loona-1-3",
-      "positions": []
-    },
-    {
-      "id": "loona-choerry",
-      "name": "Choerry",
-      "groupId": "loona",
-      "positions": []
-    },
-    {
-      "id": "loona-go-won",
-      "name": "Go Won",
-      "groupId": "loona",
-      "positions": []
-    },
-    {
-      "id": "loona-haseul",
-      "name": "Haseul",
-      "groupId": "loona",
-      "positions": []
-    },
-    {
-      "id": "loona-heejin",
-      "name": "Heejin",
-      "groupId": "loona",
-      "positions": []
-    },
-    {
-      "id": "loona-hyeju",
-      "name": "Hyeju",
-      "groupId": "loona",
-      "positions": []
-    },
-    {
-      "id": "loona-hyunjin",
-      "name": "Hyunjin",
-      "groupId": "loona",
-      "positions": []
-    },
-    {
-      "id": "loona-jinsoul",
-      "name": "Jinsoul",
-      "groupId": "loona",
-      "positions": []
-    },
-    {
-      "id": "loona-kim-lip",
-      "name": "Kim Lip",
-      "groupId": "loona",
-      "positions": []
-    },
-    {
-      "id": "loona-odd-eye-circle-choerry",
-      "name": "Choerry",
-      "groupId": "loona-odd-eye-circle",
-      "positions": []
-    },
-    {
-      "id": "loona-odd-eye-circle-jinsoul",
-      "name": "Jinsoul",
-      "groupId": "loona-odd-eye-circle",
-      "positions": []
-    },
-    {
-      "id": "loona-odd-eye-circle-kim-lip",
-      "name": "Kim Lip",
-      "groupId": "loona-odd-eye-circle",
-      "positions": []
-    },
-    {
-      "id": "loona-vivi",
-      "name": "Vivi",
-      "groupId": "loona",
-      "positions": []
-    },
-    {
-      "id": "loona-yeojin",
-      "name": "Yeojin",
-      "groupId": "loona",
-      "positions": []
-    },
-    {
-      "id": "loona-yves",
-      "name": "Yves",
-      "groupId": "loona",
-      "positions": []
-    },
-    {
-      "id": "loona-yyxy-go-won",
-      "name": "Go Won",
-      "groupId": "loona-yyxy",
-      "positions": []
-    },
-    {
-      "id": "loona-yyxy-hyeju",
-      "name": "Hyeju",
-      "groupId": "loona-yyxy",
-      "positions": []
-    },
-    {
-      "id": "loona-yyxy-yves",
-      "name": "Yves",
-      "groupId": "loona-yyxy",
-      "positions": []
-    },
-    {
-      "id": "lovelution-dahyun",
-      "name": "Dahyun",
-      "groupId": "lovelution",
-      "positions": []
-    },
-    {
-      "id": "lovelution-hyerin",
-      "name": "Hyerin",
-      "groupId": "lovelution",
-      "positions": []
-    },
-    {
-      "id": "lovelution-kaede",
-      "name": "Kaede",
-      "groupId": "lovelution",
-      "positions": []
-    },
-    {
-      "id": "lovelution-nien",
-      "name": "Nien",
-      "groupId": "lovelution",
-      "positions": []
-    },
-    {
-      "id": "lovelution-seoyeon",
-      "name": "Seoyeon",
-      "groupId": "lovelution",
-      "positions": []
-    },
-    {
-      "id": "lovelution-sohyun",
-      "name": "Sohyun",
-      "groupId": "lovelution",
-      "positions": []
-    },
-    {
-      "id": "lovelution-xinyu",
-      "name": "Xinyu",
-      "groupId": "lovelution",
-      "positions": []
-    },
-    {
-      "id": "lovelution-yubin",
-      "name": "Yubin",
-      "groupId": "lovelution",
-      "positions": []
-    },
-    {
       "id": "mamamoo-hwasa",
       "name": "Hwasa",
       "groupId": "mamamoo",
@@ -3583,6 +3438,36 @@
       "id": "mamamoo-wheein",
       "name": "Wheein",
       "groupId": "mamamoo",
+      "positions": []
+    },
+    {
+      "id": "meovv-anna",
+      "name": "Anna",
+      "groupId": "meovv",
+      "positions": []
+    },
+    {
+      "id": "meovv-ella",
+      "name": "Ella",
+      "groupId": "meovv",
+      "positions": []
+    },
+    {
+      "id": "meovv-gawon",
+      "name": "Gawon",
+      "groupId": "meovv",
+      "positions": []
+    },
+    {
+      "id": "meovv-narin",
+      "name": "Narin",
+      "groupId": "meovv",
+      "positions": []
+    },
+    {
+      "id": "meovv-sooin",
+      "name": "Sooin",
+      "groupId": "meovv",
       "positions": []
     },
     {
@@ -3616,8 +3501,8 @@
       "positions": []
     },
     {
-      "id": "monsta-x-hyung-won",
-      "name": "Hyung-won",
+      "id": "monsta-x-hyungwon",
+      "name": "Hyungwon",
       "groupId": "monsta-x",
       "positions": []
     },
@@ -3628,14 +3513,14 @@
       "positions": []
     },
     {
-      "id": "monsta-x-kihyun",
-      "name": "Kihyun",
+      "id": "monsta-x-jooheon",
+      "name": "Jooheon",
       "groupId": "monsta-x",
       "positions": []
     },
     {
-      "id": "monsta-x-lee-jooheon",
-      "name": "Lee Jooheon",
+      "id": "monsta-x-kihyun",
+      "name": "Kihyun",
       "groupId": "monsta-x",
       "positions": []
     },
@@ -3706,75 +3591,111 @@
       "positions": []
     },
     {
+      "id": "nct-127-doyoung",
+      "name": "Doyoung",
+      "groupId": "nct-127",
+      "positions": []
+    },
+    {
+      "id": "nct-127-haechan",
+      "name": "Haechan",
+      "groupId": "nct-127",
+      "positions": []
+    },
+    {
       "id": "nct-127-jaehyun",
       "name": "Jaehyun",
       "groupId": "nct-127",
       "positions": []
     },
     {
-      "id": "nct-127-johnny-suh",
-      "name": "Johnny Suh",
+      "id": "nct-127-johnny",
+      "name": "Johnny",
       "groupId": "nct-127",
       "positions": []
     },
     {
-      "id": "nct-127-kim-doyoung",
-      "name": "Kim Doyoung",
+      "id": "nct-127-jungwoo",
+      "name": "Jungwoo",
       "groupId": "nct-127",
       "positions": []
     },
     {
-      "id": "nct-127-kim-jungwoo",
-      "name": "Kim Jungwoo",
+      "id": "nct-127-taeyong",
+      "name": "Taeyong",
       "groupId": "nct-127",
       "positions": []
     },
     {
-      "id": "nct-127-lee-tae-yong",
-      "name": "Lee Tae-yong",
+      "id": "nct-127-yuta",
+      "name": "Yuta",
       "groupId": "nct-127",
       "positions": []
     },
     {
-      "id": "nct-127-yuta-nakamoto",
-      "name": "Yuta Nakamoto",
-      "groupId": "nct-127",
-      "positions": []
-    },
-    {
-      "id": "nct-dream-haechan",
-      "name": "Haechan",
+      "id": "nct-dream-chenle",
+      "name": "Chenle",
       "groupId": "nct-dream",
       "positions": []
     },
     {
-      "id": "nct-dream-lee-je-no",
-      "name": "Lee Je-no",
+      "id": "nct-dream-jaemin",
+      "name": "Jaemin",
       "groupId": "nct-dream",
       "positions": []
     },
     {
-      "id": "nct-dream-na-jaemin",
-      "name": "Na Jaemin",
+      "id": "nct-dream-jeno",
+      "name": "Jeno",
       "groupId": "nct-dream",
       "positions": []
     },
     {
-      "id": "nct-dream-park-ji-sung",
-      "name": "Park Ji-sung",
+      "id": "nct-dream-jisung",
+      "name": "Jisung",
       "groupId": "nct-dream",
       "positions": []
     },
     {
-      "id": "nct-dream-renjun-huang",
-      "name": "Renjun Huang",
+      "id": "nct-dream-renjun",
+      "name": "Renjun",
       "groupId": "nct-dream",
       "positions": []
     },
     {
-      "id": "nct-dream-zhong-chenle",
-      "name": "Zhong Chenle",
-      "groupId": "nct-dream",
+      "id": "nct-wish-daeyoung",
+      "name": "Daeyoung",
+      "groupId": "nct-wish",
+      "positions": []
+    },
+    {
+      "id": "nct-wish-riku",
+      "name": "Riku",
+      "groupId": "nct-wish",
+      "positions": []
+    },
+    {
+      "id": "nct-wish-ryo",
+      "name": "Ryo",
+      "groupId": "nct-wish",
+      "positions": []
+    },
+    {
+      "id": "nct-wish-sakuya",
+      "name": "Sakuya",
+      "groupId": "nct-wish",
+      "positions": []
+    },
+    {
+      "id": "nct-wish-sion",
+      "name": "Sion",
+      "groupId": "nct-wish",
+      "positions": []
+    },
+    {
+      "id": "nct-wish-yushi",
+      "name": "Yushi",
+      "groupId": "nct-wish",
       "positions": []
     },
     {
@@ -3852,24 +3773,6 @@
       ]
     },
     {
-      "id": "oh-my-girl-banhana-arin",
-      "name": "Arin",
-      "groupId": "oh-my-girl-banhana",
-      "positions": []
-    },
-    {
-      "id": "oh-my-girl-banhana-hyojung",
-      "name": "Hyojung",
-      "groupId": "oh-my-girl-banhana",
-      "positions": []
-    },
-    {
-      "id": "oh-my-girl-banhana-yubin",
-      "name": "Yubin",
-      "groupId": "oh-my-girl-banhana",
-      "positions": []
-    },
-    {
       "id": "oh-my-girl-hyojung",
       "name": "Hyojung",
       "groupId": "oh-my-girl",
@@ -3908,20 +3811,44 @@
       "positions": []
     },
     {
-      "id": "p1harmony-choi-ji-ung",
-      "name": "Choi Ji-ung",
+      "id": "oneus-hwanwoong",
+      "name": "Hwanwoong",
+      "groupId": "oneus",
+      "positions": []
+    },
+    {
+      "id": "oneus-keonhee",
+      "name": "Keonhee",
+      "groupId": "oneus",
+      "positions": []
+    },
+    {
+      "id": "oneus-leedo",
+      "name": "Leedo",
+      "groupId": "oneus",
+      "positions": []
+    },
+    {
+      "id": "oneus-seoho",
+      "name": "Seoho",
+      "groupId": "oneus",
+      "positions": []
+    },
+    {
+      "id": "oneus-xion",
+      "name": "Xion",
+      "groupId": "oneus",
+      "positions": []
+    },
+    {
+      "id": "p1harmony-intak",
+      "name": "Intak",
       "groupId": "p1harmony",
       "positions": []
     },
     {
-      "id": "p1harmony-haku-shota",
-      "name": "Haku Shota",
-      "groupId": "p1harmony",
-      "positions": []
-    },
-    {
-      "id": "p1harmony-hwang-in-tak",
-      "name": "Hwang In-tak",
+      "id": "p1harmony-jiung",
+      "name": "Jiung",
       "groupId": "p1harmony",
       "positions": []
     },
@@ -3932,14 +3859,20 @@
       "positions": []
     },
     {
-      "id": "p1harmony-theo",
-      "name": "Theo",
+      "id": "p1harmony-keeho",
+      "name": "Keeho",
       "groupId": "p1harmony",
       "positions": []
     },
     {
-      "id": "p1harmony-yoon-kee-ho",
-      "name": "Yoon Kee-ho",
+      "id": "p1harmony-soul",
+      "name": "Soul",
+      "groupId": "p1harmony",
+      "positions": []
+    },
+    {
+      "id": "p1harmony-theo",
+      "name": "Theo",
       "groupId": "p1harmony",
       "positions": []
     },
@@ -4263,81 +4196,69 @@
       ]
     },
     {
-      "id": "riize-anton-lee",
-      "name": "Anton Lee",
+      "id": "rescene-liv",
+      "name": "Liv",
+      "groupId": "rescene",
+      "positions": []
+    },
+    {
+      "id": "rescene-may",
+      "name": "May",
+      "groupId": "rescene",
+      "positions": []
+    },
+    {
+      "id": "rescene-minami",
+      "name": "Minami",
+      "groupId": "rescene",
+      "positions": []
+    },
+    {
+      "id": "rescene-woni",
+      "name": "Woni",
+      "groupId": "rescene",
+      "positions": []
+    },
+    {
+      "id": "rescene-zena",
+      "name": "Zena",
+      "groupId": "rescene",
+      "positions": []
+    },
+    {
+      "id": "riize-anton",
+      "name": "Anton",
       "groupId": "riize",
       "positions": []
     },
     {
-      "id": "riize-jung-sung-chan",
-      "name": "Jung Sung-chan",
+      "id": "riize-eunseok",
+      "name": "Eunseok",
       "groupId": "riize",
       "positions": []
     },
     {
-      "id": "riize-lee-so-hee",
-      "name": "Lee So-hee",
+      "id": "riize-shotaro",
+      "name": "Shotaro",
       "groupId": "riize",
       "positions": []
     },
     {
-      "id": "riize-park-won-bin",
-      "name": "Park Won-bin",
-      "groupId": "riize",
-      "positions": []
-    },
-    {
-      "id": "riize-shotaro-osaki",
-      "name": "Shotaro Osaki",
-      "groupId": "riize",
-      "positions": []
-    },
-    {
-      "id": "riize-song-eun-seok",
-      "name": "Song Eun-seok",
-      "groupId": "riize",
-      "positions": []
-    },
-    {
-      "id": "rocket-punch-dahyun",
-      "name": "Dahyun",
-      "groupId": "rocket-punch",
-      "positions": [
-        "Maknae"
-      ]
-    },
-    {
-      "id": "rocket-punch-juri",
-      "name": "Juri",
-      "groupId": "rocket-punch",
-      "positions": []
-    },
-    {
-      "id": "rocket-punch-sohee",
+      "id": "riize-sohee",
       "name": "Sohee",
-      "groupId": "rocket-punch",
+      "groupId": "riize",
       "positions": []
     },
     {
-      "id": "rocket-punch-suyun",
-      "name": "Suyun",
-      "groupId": "rocket-punch",
-      "positions": [
-        "Main Dancer"
-      ]
+      "id": "riize-sungchan",
+      "name": "Sungchan",
+      "groupId": "riize",
+      "positions": []
     },
     {
-      "id": "rocket-punch-yeonhee",
-      "name": "Yeonhee",
-      "groupId": "rocket-punch",
-      "positions": [
-        "Leader"
-      ]
-    },
-    {
-      "id": "rocket-punch-yunkyoung",
-      "name": "Yunkyoung",
-      "groupId": "rocket-punch",
+      "id": "riize-wonbin",
+      "name": "Wonbin",
+      "groupId": "riize",
       "positions": []
     },
     {
@@ -4413,20 +4334,14 @@
       "positions": []
     },
     {
-      "id": "seventeen-boo-seung-kwan",
-      "name": "Boo Seung-kwan",
-      "groupId": "seventeen",
-      "positions": []
-    },
-    {
-      "id": "seventeen-choi-seung-cheol",
-      "name": "Choi Seung-cheol",
-      "groupId": "seventeen",
-      "positions": []
-    },
-    {
       "id": "seventeen-dino",
       "name": "Dino",
+      "groupId": "seventeen",
+      "positions": []
+    },
+    {
+      "id": "seventeen-dk",
+      "name": "DK",
       "groupId": "seventeen",
       "positions": []
     },
@@ -4437,38 +4352,56 @@
       "positions": []
     },
     {
-      "id": "seventeen-jeon-won-woo",
-      "name": "Jeon Won-woo",
+      "id": "seventeen-jeonghan",
+      "name": "Jeonghan",
       "groupId": "seventeen",
       "positions": []
     },
     {
-      "id": "seventeen-joshua-hong",
-      "name": "Joshua Hong",
+      "id": "seventeen-joshua",
+      "name": "Joshua",
       "groupId": "seventeen",
       "positions": []
     },
     {
-      "id": "seventeen-kim-min-gyu",
-      "name": "Kim Min-gyu",
+      "id": "seventeen-jun",
+      "name": "Jun",
       "groupId": "seventeen",
       "positions": []
     },
     {
-      "id": "seventeen-lee-seok-min",
-      "name": "Lee Seok-min",
+      "id": "seventeen-mingyu",
+      "name": "Mingyu",
       "groupId": "seventeen",
       "positions": []
     },
     {
-      "id": "seventeen-vernon-chwe",
-      "name": "Vernon Chwe",
+      "id": "seventeen-s-coups",
+      "name": "S.Coups",
       "groupId": "seventeen",
       "positions": []
     },
     {
-      "id": "seventeen-wen-junhui",
-      "name": "Wen Junhui",
+      "id": "seventeen-seungkwan",
+      "name": "Seungkwan",
+      "groupId": "seventeen",
+      "positions": []
+    },
+    {
+      "id": "seventeen-the8",
+      "name": "The8",
+      "groupId": "seventeen",
+      "positions": []
+    },
+    {
+      "id": "seventeen-vernon",
+      "name": "Vernon",
+      "groupId": "seventeen",
+      "positions": []
+    },
+    {
+      "id": "seventeen-wonwoo",
+      "name": "Wonwoo",
       "groupId": "seventeen",
       "positions": []
     },
@@ -4479,38 +4412,26 @@
       "positions": []
     },
     {
-      "id": "seventeen-xu-minghao",
-      "name": "Xu Minghao",
-      "groupId": "seventeen",
-      "positions": []
-    },
-    {
-      "id": "seventeen-yoon-jeong-han",
-      "name": "Yoon Jeong-han",
-      "groupId": "seventeen",
-      "positions": []
-    },
-    {
-      "id": "shinee-choi-min-ho",
-      "name": "Choi Min-ho",
-      "groupId": "shinee",
-      "positions": []
-    },
-    {
       "id": "shinee-key",
       "name": "Key",
       "groupId": "shinee",
       "positions": []
     },
     {
-      "id": "shinee-lee-taemin",
-      "name": "Lee Taemin",
+      "id": "shinee-minho",
+      "name": "Minho",
       "groupId": "shinee",
       "positions": []
     },
     {
       "id": "shinee-onew",
       "name": "Onew",
+      "groupId": "shinee",
+      "positions": []
+    },
+    {
+      "id": "shinee-taemin",
+      "name": "Taemin",
       "groupId": "shinee",
       "positions": []
     },
@@ -4605,14 +4526,8 @@
       "positions": []
     },
     {
-      "id": "super-junior-cho-kyuhyun",
-      "name": "Cho Kyuhyun",
-      "groupId": "super-junior",
-      "positions": []
-    },
-    {
-      "id": "super-junior-choi-siwon",
-      "name": "Choi Siwon",
+      "id": "super-junior-donghae",
+      "name": "Donghae",
       "groupId": "super-junior",
       "positions": []
     },
@@ -4623,26 +4538,14 @@
       "positions": []
     },
     {
-      "id": "super-junior-kim-hee-chul",
-      "name": "Kim Hee-chul",
+      "id": "super-junior-heechul",
+      "name": "Heechul",
       "groupId": "super-junior",
       "positions": []
     },
     {
-      "id": "super-junior-kim-ryeowook",
-      "name": "Kim Ryeowook",
-      "groupId": "super-junior",
-      "positions": []
-    },
-    {
-      "id": "super-junior-lee-dong-hae",
-      "name": "Lee Dong-hae",
-      "groupId": "super-junior",
-      "positions": []
-    },
-    {
-      "id": "super-junior-lee-sungmin",
-      "name": "Lee Sungmin",
+      "id": "super-junior-kyuhyun",
+      "name": "Kyuhyun",
       "groupId": "super-junior",
       "positions": []
     },
@@ -4653,8 +4556,26 @@
       "positions": []
     },
     {
+      "id": "super-junior-ryeowook",
+      "name": "Ryeowook",
+      "groupId": "super-junior",
+      "positions": []
+    },
+    {
       "id": "super-junior-shindong",
       "name": "Shindong",
+      "groupId": "super-junior",
+      "positions": []
+    },
+    {
+      "id": "super-junior-siwon",
+      "name": "Siwon",
+      "groupId": "super-junior",
+      "positions": []
+    },
+    {
+      "id": "super-junior-sungmin",
+      "name": "Sungmin",
       "groupId": "super-junior",
       "positions": []
     },
@@ -4685,45 +4606,9 @@
       ]
     },
     {
-      "id": "t-ara-n4-eunjung",
-      "name": "Eunjung",
-      "groupId": "t-ara-n4",
-      "positions": []
-    },
-    {
-      "id": "t-ara-n4-hyomin",
-      "name": "Hyomin",
-      "groupId": "t-ara-n4",
-      "positions": []
-    },
-    {
-      "id": "t-ara-n4-jiyeon",
-      "name": "Jiyeon",
-      "groupId": "t-ara-n4",
-      "positions": []
-    },
-    {
       "id": "t-ara-qri",
       "name": "Qri",
       "groupId": "t-ara",
-      "positions": []
-    },
-    {
-      "id": "taetiseo-seohyun",
-      "name": "Seohyun",
-      "groupId": "taetiseo",
-      "positions": []
-    },
-    {
-      "id": "taetiseo-taeyeon",
-      "name": "Taeyeon",
-      "groupId": "taetiseo",
-      "positions": []
-    },
-    {
-      "id": "taetiseo-tiffany",
-      "name": "Tiffany",
-      "groupId": "taetiseo",
       "positions": []
     },
     {
@@ -4745,26 +4630,14 @@
       "positions": []
     },
     {
-      "id": "the-boyz-ju-hak-nyeon",
-      "name": "Ju Hak-nyeon",
+      "id": "the-boyz-juyeon",
+      "name": "Juyeon",
       "groupId": "the-boyz",
       "positions": []
     },
     {
-      "id": "the-boyz-kevin-moon",
-      "name": "Kevin Moon",
-      "groupId": "the-boyz",
-      "positions": []
-    },
-    {
-      "id": "the-boyz-kim-sun-woo",
-      "name": "Kim Sun-woo",
-      "groupId": "the-boyz",
-      "positions": []
-    },
-    {
-      "id": "the-boyz-lee-ju-yeon",
-      "name": "Lee Ju Yeon",
+      "id": "the-boyz-kevin",
+      "name": "Kevin",
       "groupId": "the-boyz",
       "positions": []
     },
@@ -4783,6 +4656,12 @@
     {
       "id": "the-boyz-sangyeon",
       "name": "Sangyeon",
+      "groupId": "the-boyz",
+      "positions": []
+    },
+    {
+      "id": "the-boyz-sunwoo",
+      "name": "Sunwoo",
       "groupId": "the-boyz",
       "positions": []
     },
@@ -4823,14 +4702,38 @@
       "positions": []
     },
     {
-      "id": "treasure-choi-hyun-suk",
-      "name": "Choi Hyun-suk",
+      "id": "treasure-asahi",
+      "name": "Asahi",
       "groupId": "treasure",
       "positions": []
     },
     {
-      "id": "treasure-hamada-asahi",
-      "name": "Hamada Asahi",
+      "id": "treasure-doyoung",
+      "name": "Doyoung",
+      "groupId": "treasure",
+      "positions": []
+    },
+    {
+      "id": "treasure-haruto",
+      "name": "Haruto",
+      "groupId": "treasure",
+      "positions": []
+    },
+    {
+      "id": "treasure-hyunsuk",
+      "name": "Hyunsuk",
+      "groupId": "treasure",
+      "positions": []
+    },
+    {
+      "id": "treasure-jaehyuk",
+      "name": "Jaehyuk",
+      "groupId": "treasure",
+      "positions": []
+    },
+    {
+      "id": "treasure-jeongwoo",
+      "name": "Jeongwoo",
       "groupId": "treasure",
       "positions": []
     },
@@ -4841,44 +4744,14 @@
       "positions": []
     },
     {
-      "id": "treasure-kim-do-young",
-      "name": "Kim Do-young",
+      "id": "treasure-junghwan",
+      "name": "Junghwan",
       "groupId": "treasure",
       "positions": []
     },
     {
-      "id": "treasure-kim-jun-kyu",
-      "name": "Kim Jun-kyu",
-      "groupId": "treasure",
-      "positions": []
-    },
-    {
-      "id": "treasure-park-jeong-woo",
-      "name": "Park Jeong-woo",
-      "groupId": "treasure",
-      "positions": []
-    },
-    {
-      "id": "treasure-so-jung-hwan",
-      "name": "So Jung-hwan",
-      "groupId": "treasure",
-      "positions": []
-    },
-    {
-      "id": "treasure-takata-mashiho",
-      "name": "Takata Mashiho",
-      "groupId": "treasure",
-      "positions": []
-    },
-    {
-      "id": "treasure-watanabe-haruto",
-      "name": "Watanabe Haruto",
-      "groupId": "treasure",
-      "positions": []
-    },
-    {
-      "id": "treasure-yoon-jae-hyuk",
-      "name": "Yoon Jae-Hyuk",
+      "id": "treasure-junkyu",
+      "name": "Junkyu",
       "groupId": "treasure",
       "positions": []
     },
@@ -5114,14 +4987,14 @@
       "positions": []
     },
     {
-      "id": "tws-han-jihoon",
-      "name": "Han Jihoon",
+      "id": "tws-hanjin",
+      "name": "Hanjin",
       "groupId": "tws",
       "positions": []
     },
     {
-      "id": "tws-hanjin",
-      "name": "Hanjin",
+      "id": "tws-jihoon",
+      "name": "Jihoon",
       "groupId": "tws",
       "positions": []
     },
@@ -5144,6 +5017,54 @@
       "positions": []
     },
     {
+      "id": "unis-elisia",
+      "name": "Elisia",
+      "groupId": "unis",
+      "positions": []
+    },
+    {
+      "id": "unis-gehlee",
+      "name": "Gehlee",
+      "groupId": "unis",
+      "positions": []
+    },
+    {
+      "id": "unis-hyeonju",
+      "name": "Hyeonju",
+      "groupId": "unis",
+      "positions": []
+    },
+    {
+      "id": "unis-kotoko",
+      "name": "Kotoko",
+      "groupId": "unis",
+      "positions": []
+    },
+    {
+      "id": "unis-nana",
+      "name": "Nana",
+      "groupId": "unis",
+      "positions": []
+    },
+    {
+      "id": "unis-seowon",
+      "name": "Seowon",
+      "groupId": "unis",
+      "positions": []
+    },
+    {
+      "id": "unis-yoona",
+      "name": "Yoona",
+      "groupId": "unis",
+      "positions": []
+    },
+    {
+      "id": "unis-yunha",
+      "name": "Yunha",
+      "groupId": "unis",
+      "positions": []
+    },
+    {
       "id": "viviz-eunha",
       "name": "Eunha",
       "groupId": "viviz",
@@ -5159,6 +5080,60 @@
       "id": "viviz-umji",
       "name": "Umji",
       "groupId": "viviz",
+      "positions": []
+    },
+    {
+      "id": "vixx-hyuk",
+      "name": "Hyuk",
+      "groupId": "vixx",
+      "positions": []
+    },
+    {
+      "id": "vixx-ken",
+      "name": "Ken",
+      "groupId": "vixx",
+      "positions": []
+    },
+    {
+      "id": "vixx-leo",
+      "name": "Leo",
+      "groupId": "vixx",
+      "positions": []
+    },
+    {
+      "id": "vixx-n",
+      "name": "N",
+      "groupId": "vixx",
+      "positions": []
+    },
+    {
+      "id": "wayv-hendery",
+      "name": "Hendery",
+      "groupId": "wayv",
+      "positions": []
+    },
+    {
+      "id": "wayv-kun",
+      "name": "Kun",
+      "groupId": "wayv",
+      "positions": []
+    },
+    {
+      "id": "wayv-ten",
+      "name": "Ten",
+      "groupId": "wayv",
+      "positions": []
+    },
+    {
+      "id": "wayv-xiaojun",
+      "name": "Xiaojun",
+      "groupId": "wayv",
+      "positions": []
+    },
+    {
+      "id": "wayv-yangyang",
+      "name": "YangYang",
+      "groupId": "wayv",
       "positions": []
     },
     {
@@ -5198,85 +5173,26 @@
       "positions": []
     },
     {
-      "id": "weki-meki-choi-yoojung",
-      "name": "Choi Yoojung",
-      "groupId": "weki-meki",
-      "positions": [
-        "Center",
-        "Main Dancer",
-        "Main Rapper"
-      ]
-    },
-    {
-      "id": "weki-meki-elly",
-      "name": "Elly",
-      "groupId": "weki-meki",
-      "positions": []
-    },
-    {
-      "id": "weki-meki-ji-suyeon",
-      "name": "Ji Suyeon",
-      "groupId": "weki-meki",
-      "positions": [
-        "Leader",
-        "Main Vocal"
-      ]
-    },
-    {
-      "id": "weki-meki-kim-doyeon",
-      "name": "Kim Doyeon",
-      "groupId": "weki-meki",
-      "positions": [
-        "Main Visual"
-      ]
-    },
-    {
-      "id": "weki-meki-lua",
-      "name": "Lua",
-      "groupId": "weki-meki",
-      "positions": []
-    },
-    {
-      "id": "weki-meki-lucy",
-      "name": "Lucy",
-      "groupId": "weki-meki",
-      "positions": [
-        "Maknae"
-      ]
-    },
-    {
-      "id": "weki-meki-rina",
-      "name": "Rina",
-      "groupId": "weki-meki",
-      "positions": []
-    },
-    {
-      "id": "weki-meki-sei",
-      "name": "Sei",
-      "groupId": "weki-meki",
-      "positions": []
-    },
-    {
-      "id": "winner-kang-seung-yoon",
-      "name": "Kang Seung-yoon",
+      "id": "winner-jinu",
+      "name": "Jinu",
       "groupId": "winner",
       "positions": []
     },
     {
-      "id": "winner-kim-jin-woo",
-      "name": "Kim Jin-woo",
+      "id": "winner-mino",
+      "name": "Mino",
       "groupId": "winner",
       "positions": []
     },
     {
-      "id": "winner-lee-seung-hoon",
-      "name": "Lee Seung-hoon",
+      "id": "winner-seunghoon",
+      "name": "Seunghoon",
       "groupId": "winner",
       "positions": []
     },
     {
-      "id": "winner-song-min-ho",
-      "name": "Song Min-ho",
+      "id": "winner-seungyoon",
+      "name": "Seungyoon",
       "groupId": "winner",
       "positions": []
     },
@@ -5287,24 +5203,6 @@
       "positions": [
         "Center"
       ]
-    },
-    {
-      "id": "wjsn-chocome-dayoung",
-      "name": "Dayoung",
-      "groupId": "wjsn-chocome",
-      "positions": []
-    },
-    {
-      "id": "wjsn-chocome-soobin",
-      "name": "Soobin",
-      "groupId": "wjsn-chocome",
-      "positions": []
-    },
-    {
-      "id": "wjsn-chocome-yeoreum",
-      "name": "Yeoreum",
-      "groupId": "wjsn-chocome",
-      "positions": []
     },
     {
       "id": "wjsn-dayoung",
@@ -5340,30 +5238,6 @@
       "positions": []
     },
     {
-      "id": "wjsn-the-black-bona",
-      "name": "Bona",
-      "groupId": "wjsn-the-black",
-      "positions": []
-    },
-    {
-      "id": "wjsn-the-black-eunseo",
-      "name": "Eunseo",
-      "groupId": "wjsn-the-black",
-      "positions": []
-    },
-    {
-      "id": "wjsn-the-black-exy",
-      "name": "Exy",
-      "groupId": "wjsn-the-black",
-      "positions": []
-    },
-    {
-      "id": "wjsn-the-black-seola",
-      "name": "Seola",
-      "groupId": "wjsn-the-black",
-      "positions": []
-    },
-    {
       "id": "wjsn-yeonjung",
       "name": "Yeonjung",
       "groupId": "wjsn",
@@ -5371,12 +5245,6 @@
         "Main Vocal",
         "Maknae"
       ]
-    },
-    {
-      "id": "wjsn-yeoreum",
-      "name": "Yeoreum",
-      "groupId": "wjsn",
-      "positions": []
     },
     {
       "id": "woo-ah-lucy",
@@ -5523,32 +5391,32 @@
       "positions": []
     },
     {
-      "id": "zerobaseone-kim-ji-woong",
-      "name": "Kim Ji-woong",
+      "id": "zerobaseone-gunwook",
+      "name": "Gunwook",
       "groupId": "zerobaseone",
       "positions": []
     },
     {
-      "id": "zerobaseone-kim-tae-rae",
-      "name": "Kim Tae-rae",
+      "id": "zerobaseone-hanbin",
+      "name": "Hanbin",
       "groupId": "zerobaseone",
       "positions": []
     },
     {
-      "id": "zerobaseone-park-gun-wook",
-      "name": "Park Gun-wook",
+      "id": "zerobaseone-jiwoong",
+      "name": "Jiwoong",
       "groupId": "zerobaseone",
       "positions": []
     },
     {
-      "id": "zerobaseone-seok-matthew",
-      "name": "Seok Matthew",
+      "id": "zerobaseone-matthew",
+      "name": "Matthew",
       "groupId": "zerobaseone",
       "positions": []
     },
     {
-      "id": "zerobaseone-sung-han-bin",
-      "name": "Sung Han-bin",
+      "id": "zerobaseone-taerae",
+      "name": "Taerae",
       "groupId": "zerobaseone",
       "positions": []
     }
